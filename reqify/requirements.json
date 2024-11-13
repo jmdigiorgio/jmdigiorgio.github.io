@@ -1,0 +1,2066 @@
+[
+    {
+        "chunk_id": 1,
+        "text": "This document provides a comprehensive description of the basic elements of a model for integrated financial management systems in the Federal government including, system integration, data stewardship, and internal controls.",
+        "probability": 0.7,
+        "justification": "The text describes components of a model for financial management systems, indicating specifications and characteristics that define system behavior and properties."
+    },
+    {
+        "chunk_id": 1,
+        "text": "This document is prepared in support of the Federal Financial Management Improvement Act (FFMIA) of 1996 and strategic plan of Chief Financial Officer’s (CFO) Council.",
+        "probability": 0.6,
+        "justification": "Preparation in support of legislative acts and strategic plans implies the need for system capabilities that align with these frameworks, fulfilling stakeholder needs."
+    },
+    {
+        "chunk_id": 1,
+        "text": "The Federal Government to provide financial systems that facilitate the effective management of government programs and services for the proper stewardship of public resources.",
+        "probability": 0.8,
+        "justification": "This text specifies a condition that the financial systems must meet, which is a clear requirement for system capabilities to ensure effective management and stewardship."
+    },
+    {
+        "chunk_id": 1,
+        "text": "Key to overcoming this shortfall is the establishment of robust inventory system requirements.",
+        "probability": 0.9,
+        "justification": "This statement directly identifies the necessity for establishing specific system requirements to address identified shortcomings, thus qualifying as a system requirement."
+    },
+    {
+        "chunk_id": 2,
+        "text": "Agencies must use these functional requirements, in addition to agency-unique mission requirements, in planning their financial management and inventory systems improvement projects.",
+        "probability": 0.9,
+        "justification": "This statement explicitly defines a requirement for agencies to use specific functional requirements in their planning processes, which aligns with the standard of a system requirement."
+    },
+    {
+        "chunk_id": 2,
+        "text": "The functionality to support the requirements identified in this document does not necessarily reside in a single software application or functional system.",
+        "probability": 0.6,
+        "justification": "While this indicates a characteristic of the systems involved, it implies the need for flexibility in system design and architecture to support various functionalities, which is a relevant aspect of system requirements."
+    },
+    {
+        "chunk_id": 4,
+        "text": "Improvements in agency Inventory, Supplies and Materials and financial systems are critical to government’s efforts to obtain complete and reliable information needed to manage this enterprise efficiently.",
+        "probability": 0.8,
+        "justification": "This statement reflects the necessity for improvements in systems that is crucial for effective management, which indicates a system requirement."
+    },
+    {
+        "chunk_id": 4,
+        "text": "Integrated systems are expected to simultaneously support multiple users (program managers, financial managers, acquisition managers, and inventory managers) while systems and data are being shared by agencies with common needs.",
+        "probability": 0.75,
+        "justification": "The expectation for integrated systems to support multiple users implies a requirement for user accessibility and shared data, which are fundamental characteristics of system behavior."
+    },
+    {
+        "chunk_id": 4,
+        "text": "Information supplied by these systems is expected to become more timely, accurate, and consistent across the government.",
+        "probability": 0.7,
+        "justification": "This statement sets a standard for the information that must be provided by the systems, which defines system behavior and quality expectations."
+    },
+    {
+        "chunk_id": 4,
+        "text": "Its purpose is to provide a common set of inventory/financial shared information requirements with which each agency’s integrated financial management system must be consistent.",
+        "probability": 0.85,
+        "justification": "This clearly articulates a requirement for systems to align with a set of shared information requirements, establishing a condition for compliance."
+    },
+    {
+        "chunk_id": 4,
+        "text": "These requirements are intended to be available to all users who rely on the information to carry out their responsibilities.",
+        "probability": 0.9,
+        "justification": "This specifies a requirement that the information must be accessible to all users, thereby defining a critical aspect of system functionality."
+    },
+    {
+        "chunk_id": 5,
+        "text": "The Federal government recognizes the importance of having high-quality information management systems.",
+        "probability": 0.7,
+        "justification": "This statement outlines a key requirement for the system, emphasizing the need for high-quality information management systems to support government operations, which aligns with the typical specifications that define a system's properties."
+    },
+    {
+        "chunk_id": 5,
+        "text": "All electronic systems, including financial and acquisition systems, shall have a defined association to an agency’s enterprise architecture.",
+        "probability": 0.9,
+        "justification": "This is a clear statement of a system requirement that specifies a mandatory condition for any electronic system that includes associations with the agency's enterprise architecture."
+    },
+    {
+        "chunk_id": 5,
+        "text": "High-quality information management systems shall be developed to enable effective and efficient decision making by program officials.",
+        "probability": 0.85,
+        "justification": "This indicates a specification that the systems must meet, highlighting their purpose in facilitating decision making, which is a direct requirement of their functionality."
+    },
+    {
+        "chunk_id": 5,
+        "text": "Specific mandatory requirements for Inventory, Supplies and Materials apply only to those agencies which manage such property in their programs.",
+        "probability": 0.75,
+        "justification": "This implies that certain agencies have specific requirements that the systems must satisfy, indicating the targeted applicability of these requirements which is an essential aspect of system requirements."
+    },
+    {
+        "chunk_id": 5,
+        "text": "This version recognizes an expansion of the basic inventory requirements to include requirements for related property.",
+        "probability": 0.65,
+        "justification": "This statement points out that the system’s requirements have been expanded, indicating a change and providing clarity on additional capability that the system must support."
+    },
+    {
+        "chunk_id": 6,
+        "text": "Financial management systems in the Federal government must be designed to support the vision articulated by the government’s financial management community.",
+        "probability": 0.9,
+        "justification": "This statement indicates a requirement for financial management systems, emphasizing that they must be designed to meet specific needs outlined by stakeholders, which fits the definition of a system requirement."
+    },
+    {
+        "chunk_id": 6,
+        "text": "Collect accurate, timely, complete, reliable, and consistent information.",
+        "probability": 0.85,
+        "justification": "This is a clear statement outlining a capability that the system must satisfy, specifically focusing on the quality and reliability of information."
+    },
+    {
+        "chunk_id": 6,
+        "text": "Provide for adequate agency management reporting for decision making, measuring performance, and financial reporting.",
+        "probability": 0.8,
+        "justification": "This requirement describes the need for the system to facilitate management reporting, which is essential for effective decision-making and falls within the system's behavior requirements."
+    },
+    {
+        "chunk_id": 6,
+        "text": "Support government-wide and agency-wide policy decision making.",
+        "probability": 0.75,
+        "justification": "This statement indicates a function that the system must support, aligning with the requirement to aid in decision-making processes at various governance levels."
+    },
+    {
+        "chunk_id": 6,
+        "text": "Support the preparation and execution of agency budgets.",
+        "probability": 0.7,
+        "justification": "This indicates that the system must include capabilities related to budgeting processes, which is a specified requirement for financial management systems."
+    },
+    {
+        "chunk_id": 6,
+        "text": "Facilitate the preparation of financial statements and other financial reports in accordance with Federal accounting and reporting standards.",
+        "probability": 0.8,
+        "justification": "This is a requirement that clearly defines the system's responsibility to prepare necessary financial documentation to comply with established standards."
+    },
+    {
+        "chunk_id": 6,
+        "text": "Provide information to central agencies for budgeting, analysis, and government-wide reporting, including consolidated financial statements.",
+        "probability": 0.75,
+        "justification": "This is a requirement that highlights the need for information sharing with central agencies, which is crucial for financial reporting processes."
+    },
+    {
+        "chunk_id": 6,
+        "text": "Provide a complete audit trail to facilitate audits.",
+        "probability": 0.85,
+        "justification": "This requirement stresses the importance of an audit trail, a key capability for maintaining accountability and transparency, thereby qualifying as a system requirement."
+    },
+    {
+        "chunk_id": 6,
+        "text": "Provide adequate security controls to minimize the risk that data could be disclosed to unauthorized individuals, improperly used or manipulated, or destroyed due to unauthorized access or use.",
+        "probability": 0.9,
+        "justification": "This statement is a requirement for security features within the system, emphasizing the need for protective measures to safeguard data integrity."
+    },
+    {
+        "chunk_id": 6,
+        "text": "Provide disaster recovery capabilities.",
+        "probability": 0.85,
+        "justification": "This is a clear statement of a necessity for disaster recovery, indicating a critical capability the system must possess."
+    },
+    {
+        "chunk_id": 6,
+        "text": "A Federal Inventory, Supplies and Materials system is a unified mixed system used in administering an Inventory, Supplies and Materials program.",
+        "probability": 0.65,
+        "justification": "This defines the nature and purpose of the system, indicating its unified structure for inventory management, which reflects a core system requirement."
+    },
+    {
+        "chunk_id": 7,
+        "text": "The term Inventory, Supplies and Materials system does not mean that a specific system architecture is required.",
+        "probability": 0.6,
+        "justification": "This statement implicitly indicates that the system does not impose a specific architecture requirement, which is a characteristic that defines the system's properties."
+    },
+    {
+        "chunk_id": 7,
+        "text": "The mandatory data elements that are specified in the various sections of this document may reside in a central data base that is accessed by a variety of systems.",
+        "probability": 0.7,
+        "justification": "This statement describes a requirement concerning the location of mandatory data elements and their accessibility, which defines the system's behavior."
+    },
+    {
+        "chunk_id": 7,
+        "text": "Those processes, policies, and procedures are applicable to all executive agencies and are published in the Federal Acquisition Regulation (FAR).",
+        "probability": 0.5,
+        "justification": "This statement indicates that processes, policies, and procedures are mandatory for all executive agencies, suggesting a system characteristic that must be adhered to."
+    },
+    {
+        "chunk_id": 7,
+        "text": "Inventory, Supplies and Materials is defined as tangible property, other than long-term fixed assets, held by federal government agencies.",
+        "probability": 0.6,
+        "justification": "This defines the properties of what constitutes Inventory, Supplies and Materials, which is essential to understand the system's behavior."
+    },
+    {
+        "chunk_id": 7,
+        "text": "The system requirements for Inventory, Supplies and Materials being addressed in this document apply to the following classifications of Inventory, Supplies and Materials.",
+        "probability": 0.7,
+        "justification": "This statement sets the scope of the system requirements and identifies what classifications must be considered, guiding the design of the system."
+    },
+    {
+        "chunk_id": 7,
+        "text": "The term 'held for sale' shall be interpreted to include items for sale or transfer to (1) entities outside the federal government, or (2) other federal entities.",
+        "probability": 0.8,
+        "justification": "This clarifies a specific interpretation of the term 'held for sale,' which directly affects the behavior of the Inventory, Supplies and Materials system."
+    },
+    {
+        "chunk_id": 8,
+        "text": "The principal objective of the sale or transfer of inventory is to provide a product or service for a fee that generally recovers full cost or an identified portion of the cost.",
+        "probability": 0.8,
+        "justification": "This statement outlines a fundamental goal that the system must achieve, which is to recover costs through the sale or transfer of inventory. This aligns with the definition of system requirements as it specifies a behavior the system must fulfill."
+    },
+    {
+        "chunk_id": 8,
+        "text": "Factors to be considered in developing criteria for identifying inventory held in reserve for future sale are: • relevant costs associated with holding these items (including the storage, handling, maintenance, repair, and replenishment of out-of-date stock costs) • expected replacement costs, when needed • time required to replenish inventory",
+        "probability": 0.75,
+        "justification": "This text describes essential considerations that should be addressed in the development of criteria for managing inventory, indicating required system capabilities related to cost evaluation and inventory management."
+    },
+    {
+        "chunk_id": 8,
+        "text": "Inventory, Supplies and Materials classified as excess, obsolete, and unserviceable inventory is awaiting disposal because it is no longer needed or is damaged to the point that it is more economical to dispose of rather than to hold.",
+        "probability": 0.7,
+        "justification": "The identification of excess, obsolete, and unserviceable inventory constitutes a requirement for the system in terms of classification and management of materials."
+    },
+    {
+        "chunk_id": 8,
+        "text": "Inventory or operating materials and supplies held for repair are items that are worn out or broken and are expected to be repaired when needed and eventually sold or consumed in operations.",
+        "probability": 0.85,
+        "justification": "This statement specifies a condition that the system must fulfill regarding the management of inventory that is designated for repair, making it a clear system requirement."
+    },
+    {
+        "chunk_id": 8,
+        "text": "The category of “held for repair” applies to items being held that are: • less costly to repair than to replace • not available in a timely manner, or • not being manufactured any longer and may be required to service equipment which is no longer being manufactured but is still used in agency operations.",
+        "probability": 0.8,
+        "justification": "The specified conditions for items held for repair are requirements that outline the criteria under which items should be classified within the system, indicating necessary system capabilities."
+    },
+    {
+        "chunk_id": 9,
+        "text": "Inventory, Supplies and Materials systems must comply with these requirements to ensure the sharing of data among systems and to form the basis for an agency’s single integrated financial management system.",
+        "probability": 0.9,
+        "justification": "The use of the word 'must' indicates a mandatory requirement that the Inventory, Supplies and Materials system must comply with specific requirements for data sharing and system integration."
+    },
+    {
+        "chunk_id": 9,
+        "text": "Mandatory requirements describe what the system must do and represent the minimum acceptable functionality necessary to establish a system based on Federal laws and regulations.",
+        "probability": 0.85,
+        "justification": "This statement clearly defines the necessary characteristics that a system must satisfy to align with federal laws and regulations, identifying it as a system requirement."
+    },
+    {
+        "chunk_id": 9,
+        "text": "Agencies should consider value-added features when judging systems options.",
+        "probability": 0.7,
+        "justification": "The recommendation to consider value-added features indicates that these features may enhance system functionality, making it a relevant system requirement."
+    },
+    {
+        "chunk_id": 10,
+        "text": "Any information requirement identified as mandatory is mandatory throughout the Inventory, Supplies and Materials process, if applicable to the transaction; no matter when in the process the associated data becomes available.",
+        "probability": 0.85,
+        "justification": "This statement clearly captures a condition that the system must satisfy, indicating that mandatory information requirements must be adhered to throughout the processes involved in Inventory, Supplies, and Materials management."
+    },
+    {
+        "chunk_id": 10,
+        "text": "These requirements, regardless of their form, must be made available to all users —both from the supply/logistics and finance communities —who require it to carry out their respective responsibilities.",
+        "probability": 0.9,
+        "justification": "This text specifies that certain information must be accessible to users in specific communities, pinpointing an essential characteristic that the system must provide to fulfill stakeholder needs."
+    },
+    {
+        "chunk_id": 10,
+        "text": "Inventory, Supplies and Materials management must be defined in terms of what processes and objectives need to be supported by the system.",
+        "probability": 0.75,
+        "justification": "This indicates that the system requirements are tied to supporting specific processes and objectives, which is a fundamental aspect of what the system should be capable of achieving."
+    },
+    {
+        "chunk_id": 10,
+        "text": "The requirements that follow provide a description of the major information and processing capabilities for inventory systems.",
+        "probability": 0.7,
+        "justification": "This statement outlines the key capabilities that the inventory systems should have, suggesting essential functionality that is required for the system's operation."
+    },
+    {
+        "chunk_id": 11,
+        "text": "The Inventory, Supplies and Materials system must support the following common requirements for all inventory classification functions: • Record beginning balances (on-hand), acquisitions, withdrawals (dispositions), and calculate ending balances (on-hand) expressed in dollar values and physical units",
+        "probability": 0.95,
+        "justification": "This statement specifies a requirement for the system's functionality to record and calculate inventory balances, which is crucial for inventory management."
+    },
+    {
+        "chunk_id": 11,
+        "text": "Record item identification, classification (e.g., nomenclature, quantity, description, Federal stock classification or national stock number), initial cost, and subsequent costs related to acquisition (i.e. holding/handling cost)",
+        "probability": 0.95,
+        "justification": "This requirement details the need for the system to record various aspects of inventory items, which is fundamental for tracking and managing inventory."
+    },
+    {
+        "chunk_id": 11,
+        "text": "Be in accordance with FASAB requirements on Valuation Methods, as outlined in Appendix C",
+        "probability": 0.85,
+        "justification": "This statement indicates that the system must comply with specific financial guidelines, which outlines a regulatory requirement of the system."
+    },
+    {
+        "chunk_id": 11,
+        "text": "Record the condition of the inventory",
+        "probability": 0.9,
+        "justification": "This requirement specifies the system's need to capture the condition of inventory, which is necessary for accurate inventory assessment."
+    },
+    {
+        "chunk_id": 11,
+        "text": "Record changes in value of Inventory, Supplies and Materials due to changes in condition or other impacting circumstances",
+        "probability": 0.9,
+        "justification": "This text indicates the system must track value changes, which is essential for accurate financial reporting and inventory management."
+    },
+    {
+        "chunk_id": 11,
+        "text": "Record whether material received is hazardous, classified, requires special handling, requires special packaging, requires munitions list controls, requires trade security controls, or has a shelf-life",
+        "probability": 0.9,
+        "justification": "This requirement specifies necessary records regarding item characteristics, which are crucial for safety and compliance."
+    },
+    {
+        "chunk_id": 11,
+        "text": "Provide edits (controls) to prevent duplicate entries and reduce the likelihood of creating erroneous inventory documents/records, thereby ensuring the integrity of data recorded in the system",
+        "probability": 0.95,
+        "justification": "This statement outlines a system requirement focused on data integrity, which is fundamental to reliable inventory management."
+    },
+    {
+        "chunk_id": 11,
+        "text": "Permit only authorized users to enter, modify, or otherwise alter inventory records",
+        "probability": 0.95,
+        "justification": "This requirement involves user access control, which is critical for maintaining data security and integrity."
+    },
+    {
+        "chunk_id": 11,
+        "text": "Provide audit trails to trace transactions from source documents, original input, other systems, and system-generated transactions",
+        "probability": 0.9,
+        "justification": "This statement emphasizes the necessity of audit trails for transaction verification, which ensures accountability in inventory management."
+    },
+    {
+        "chunk_id": 11,
+        "text": "Provide the capability to relate data elements to each other as discussed, through an integrated data query facility that supports ad hoc query access to financial information described in the document and provides reporting tools for data analysis",
+        "probability": 0.9,
+        "justification": "This requirement describes functionality for data integration and analysis, which is essential for informed decision-making."
+    },
+    {
+        "chunk_id": 11,
+        "text": "Provide a field for a Unique Item Identifier (UID). A UID is a unique, unambiguous string of alphanumeric characters that enable the identification of a specific item from any other like or unlike it in compliance with ISOs 15434 and 15418.",
+        "probability": 0.95,
+        "justification": "This requirement specifies the need for a unique identifier for inventory items, which is crucial for tracking and management throughout their lifecycle."
+    },
+    {
+        "chunk_id": 12,
+        "text": "Agencies must also develop strategies for interfacing or integrating other systems, including its inventory systems, with the Core Financial System.",
+        "probability": 0.75,
+        "justification": "This statement specifies a clear requirement for agencies to create strategies for system interfacing, indicating a necessary capability for the system to integrate with others."
+    },
+    {
+        "chunk_id": 12,
+        "text": "All systems, modules, or applications that record, use, or manipulate shared information should be linked.",
+        "probability": 0.65,
+        "justification": "This statement implies a requirement for connectivity among systems that handle shared information, establishing a condition that needs to be fulfilled."
+    },
+    {
+        "chunk_id": 12,
+        "text": "The inventory system, to include subsystems that record or generate inventory management information, should be capable of interfacing with other financial and mixed systems.",
+        "probability": 0.8,
+        "justification": "This specifies a capability that the inventory system must have, making it a requirement for interfacing with other systems."
+    },
+    {
+        "chunk_id": 12,
+        "text": "The inventory system should be able to process transactions from other systems and record and track such transactions and related information, to provide the basis for central control.",
+        "probability": 0.85,
+        "justification": "This statement outlines specific functionality that the inventory system must provide, which is a clear system requirement."
+    },
+    {
+        "chunk_id": 12,
+        "text": "If the inventory system relies upon a subsystem for information or data, such as work-in-progress, there should also exist a two-way interface.",
+        "probability": 0.7,
+        "justification": "This establishes a requirement for the existence of a two-way interface when the inventory system depends on a subsystem, thereby defining system behavior."
+    },
+    {
+        "chunk_id": 13,
+        "text": "Provide capability to interface with agency core accounting system to record the accounting impact of all financial activity at the SGL level, on a daily basis, to support consolidated financial reporting.",
+        "probability": 0.8,
+        "justification": "This statement specifies a capability that the system must have to ensure proper accounting records are maintained and reported, aligning with the definition of a system requirement."
+    },
+    {
+        "chunk_id": 13,
+        "text": "Provide standard input record format(s) for interface of transactions from other systems to the Inventory, Supplies and Materials system.",
+        "probability": 0.7,
+        "justification": "This indicates a necessary specification of how data should be formatted for the system to properly interact with other systems, thus defining a system property."
+    },
+    {
+        "chunk_id": 13,
+        "text": "Provide capability to interface to the agency’s cost accounting system.",
+        "probability": 0.75,
+        "justification": "This requirement highlights the need for integration with the cost accounting system, which is crucial for the system’s functionality and meets the criteria for a system requirement."
+    },
+    {
+        "chunk_id": 13,
+        "text": "Provide capability for a two-way interface with the core system for purposes of funds control and funds availability verification.",
+        "probability": 0.85,
+        "justification": "This clearly states a functional requirement of the system to verify funds control, which is essential for financial transactions, thereby qualifying as a system requirement."
+    },
+    {
+        "chunk_id": 13,
+        "text": "Ensure that audit trails of all system transactions are recorded.",
+        "probability": 0.9,
+        "justification": "The need for recorded audit trails is a critical aspect of system behavior that fulfills legal and operational needs, making it a strong requirement."
+    },
+    {
+        "chunk_id": 14,
+        "text": "Provide for back up and recovery of the system per relevant OMB Circulars",
+        "probability": 0.9,
+        "justification": "This statement clearly indicates a functionality the system must have to ensure data integrity and availability, aligning with system requirement characteristics."
+    },
+    {
+        "chunk_id": 14,
+        "text": "Allow users to input parameters required to run batch jobs in a production mode either: daily, monthly, quarterly or yearly",
+        "probability": 0.85,
+        "justification": "This describes a specific behavior the system must support for operational efficiency, qualifying it as a system requirement."
+    },
+    {
+        "chunk_id": 14,
+        "text": "Provide all users the capability to perform a “Print Screen” function",
+        "probability": 0.75,
+        "justification": "This requirement specifies an essential feature of user interaction with the system, indicating what the system must provide for its users."
+    },
+    {
+        "chunk_id": 14,
+        "text": "Provide flexible security measures to control user access at varying degrees including: overall system access, capability to perform specific functions (inquiry, update), access to certain functionality",
+        "probability": 0.95,
+        "justification": "This requirement outlines necessary security features that govern user access, which are critical for protecting the system and its data."
+    },
+    {
+        "chunk_id": 14,
+        "text": "Provide capability to define access to specific functions by named user, class of user, and position",
+        "probability": 0.9,
+        "justification": "This requirement emphasizes the need for specific user access controls, a crucial aspect of system security which must be addressed in the design."
+    },
+    {
+        "chunk_id": 14,
+        "text": "Provide for multiple levels of approvals based on user-defined criteria including dollar limits, type of document processed, etc.",
+        "probability": 0.85,
+        "justification": "This requirement indicates a necessary functionality related to transaction processing and approval workflows within the system."
+    },
+    {
+        "chunk_id": 14,
+        "text": "Provide the capability to perform reconciliation routines for internal participant accounts, ledgers, and funds, and to identify unsuccessful reconciliations via error log or error report",
+        "probability": 0.88,
+        "justification": "This states a key functionality of the system that must be available to ensure financial integrity and accountability."
+    },
+    {
+        "chunk_id": 14,
+        "text": "Provide a mechanism to monitor changes to software coding and the responsible individual (authorized user)",
+        "probability": 0.82,
+        "justification": "This requirement outlines a needed feature for software change management and accountability in the system."
+    },
+    {
+        "chunk_id": 14,
+        "text": "Provide for adequate management controls, including internal and security controls, policies, and procedures intended to protect the agency’s key systems, data, and interfaces from disruption and unauthorized access or alteration, as prescribed in a variety of statutes and regulations",
+        "probability": 0.98,
+        "justification": "This comprehensive requirement covers necessary controls for security and management, which should be central to any system’s design."
+    },
+    {
+        "chunk_id": 14,
+        "text": "Comply with the disclosure provisions of the Privacy Act of 1974 (5 U.S.C. § 552A) as amended",
+        "probability": 0.9,
+        "justification": "This requirement specifies a legal obligation that the system must adhere to regarding user data privacy, which is critical for compliance."
+    },
+    {
+        "chunk_id": 14,
+        "text": "Allow for the information contained in the system to be queried and present detailed data as requested.",
+        "probability": 0.85,
+        "justification": "This describes a functional need for data retrieval and reporting capabilities within the system, indicating a required behavior."
+    },
+    {
+        "chunk_id": 15,
+        "text": "Provide users with access to on-line guidance or help for performing system functions",
+        "probability": 0.9,
+        "justification": "This statement specifies a capability that the system must provide to meet user needs for guidance, aligning with the definition of system requirements."
+    },
+    {
+        "chunk_id": 15,
+        "text": "Facilitate the analysis of information contained in the system by allowing analysts to obtain report information and the results of system queries in data files that can be transferred to other applications or analytical tools",
+        "probability": 0.85,
+        "justification": "This requirement details a specific functionality that the system must facilitate, thus meeting stakeholder needs for data analysis and transfer."
+    },
+    {
+        "chunk_id": 15,
+        "text": "Utilize various automated input devices when hard copy applications and correspondence are received.",
+        "probability": 0.8,
+        "justification": "The statement outlines a specific requirement for hardware interaction that improves data input processes, qualifying it as a system requirement."
+    },
+    {
+        "chunk_id": 15,
+        "text": "Support both batch and real-time on-line data entry and use the same edit and update rules as appropriate for each mode",
+        "probability": 0.9,
+        "justification": "This specifies a dual capability for data entry that the system must support, which is critical for system behavior."
+    },
+    {
+        "chunk_id": 15,
+        "text": "Support simultaneous data entry/access by multiple users in a variety of access modes",
+        "probability": 0.85,
+        "justification": "The requirement specifies a necessary capability for multi-user access, essential for system performance and usability."
+    },
+    {
+        "chunk_id": 15,
+        "text": "User entry and query screens must support validation of codes entered on the screen.",
+        "probability": 0.9,
+        "justification": "This outlines a specific functionality needed to enhance data entry accuracy, which is crucial for user interactions with the system."
+    },
+    {
+        "chunk_id": 15,
+        "text": "Display a message to the user notifying them of the acceptance or rejection of each transaction once all inputs are completed",
+        "probability": 0.85,
+        "justification": "This requirement details how the system must inform users about transaction status, critical for effective user experience."
+    },
+    {
+        "chunk_id": 15,
+        "text": "Archiving and purging criteria should be developed in accordance with Federal regulations and jointly agreed to by the system administrator.",
+        "probability": 0.8,
+        "justification": "This outlines a compliance requirement for data management practices within the system, indicating essential system behavior."
+    },
+    {
+        "chunk_id": 16,
+        "text": "Provide an automated means for permanently storing electronic data",
+        "probability": 1.0,
+        "justification": "This statement clearly defines a capability that the system must have to meet the stakeholder's needs for data storage."
+    },
+    {
+        "chunk_id": 16,
+        "text": "Archive transactions and related information needed for audit trails in a format accessible by audit software",
+        "probability": 1.0,
+        "justification": "This requirement specifies a functionality that directly supports audit processes, making it essential for system operation."
+    },
+    {
+        "chunk_id": 16,
+        "text": "Provide the authorized system administrator the flexibility to determine whether records are to be archived or purged.",
+        "probability": 1.0,
+        "justification": "This statement defines a role capability within the system, indicating what must be available for effective system management."
+    },
+    {
+        "chunk_id": 16,
+        "text": "The system must include the capability to establish and maintain user defined archival criteria",
+        "probability": 1.0,
+        "justification": "This statement outlines a specific feature the system must have, which is critical for user customization of data management."
+    },
+    {
+        "chunk_id": 16,
+        "text": "Retain system records in accordance with Federal regulations established by the National Archives and Records Administration (NARA), GAO, and others.",
+        "probability": 1.0,
+        "justification": "This requirement ensures compliance with legal standards, which is crucial for the system's legitimacy and operational integrity."
+    },
+    {
+        "chunk_id": 16,
+        "text": "Prevent the purging of transactions prior to the proper period in accordance with regulations governing the retention of documents and transactions",
+        "probability": 1.0,
+        "justification": "This statement defines a mandatory condition that the system must satisfy to comply with established regulations."
+    },
+    {
+        "chunk_id": 16,
+        "text": "Provide asset identifier in order to include all costs incurred and track total acquisition/contracting cost",
+        "probability": 1.0,
+        "justification": "The inclusion of an asset identifier is a fundamental need to manage costs, making this a critical requirement."
+    },
+    {
+        "chunk_id": 16,
+        "text": "Track the asset identifier to the specific document used to acquire the asset, e.g., purchase order, task order, etc.",
+        "probability": 1.0,
+        "justification": "This statement establishes a necessary relationship in record-keeping, essential for maintaining accurate financial and inventory records."
+    },
+    {
+        "chunk_id": 16,
+        "text": "Managers should seek to minimize Inventory, Supplies and Materials levels through the use of economic order quantity (EOQ) or by the use of other acceptable methods.",
+        "probability": 0.7,
+        "justification": "While more of a guideline, this statement indicates an operational goal that the system should support, hence it's considered a softer requirement."
+    },
+    {
+        "chunk_id": 17,
+        "text": "The agency’s Inventory, Supplies and Materials system must record customer demand and replenishment lead time data for a period of time (as specified by management), identify anomalies (such as unusual spikes in customer demand), and compute demand and lead time forecasts based upon a regular schedule determined by management.",
+        "probability": 0.9,
+        "justification": "This statement identifies specific functionalities that the system must perform, indicating requirements related to data recording, anomaly detection, and forecasting."
+    },
+    {
+        "chunk_id": 17,
+        "text": "The agency’s Inventory, Supplies and Materials system must compute and routinely update the ordering costs, as determined by management.",
+        "probability": 0.85,
+        "justification": "This statement specifies a requirement for the system to calculate and regularly refresh ordering costs, which is essential for inventory management."
+    },
+    {
+        "chunk_id": 17,
+        "text": "The agency’s Inventory, Supplies and Materials system must estimate and routinely update the per unit holding cost.",
+        "probability": 0.8,
+        "justification": "This clearly states a requirement for the system to handle per unit holding cost estimation and updates, integral to inventory costing."
+    },
+    {
+        "chunk_id": 17,
+        "text": "The agency’s Inventory, Supplies and Materials system must compute the safety level of an item, if any, on a regular schedule.",
+        "probability": 0.75,
+        "justification": "This requirement focuses on the calculation of safety levels, which is necessary for maintaining adequate inventory levels to avoid stockouts."
+    },
+    {
+        "chunk_id": 17,
+        "text": "The agency’s Inventory, Supplies and Materials system must recompute the reorder point level on a regular schedule.",
+        "probability": 0.75,
+        "justification": "Regular recomputation of reorder points is a critical function of inventory systems for controlling stock levels."
+    },
+    {
+        "chunk_id": 17,
+        "text": "The agency’s Inventory, Supplies and Materials system must record the authorization and expiration of non-demand based requirements.",
+        "probability": 0.7,
+        "justification": "This speaks to a requirement for tracking non-demand based inventory items, which is necessary for compliance and management."
+    },
+    {
+        "chunk_id": 17,
+        "text": "The agency’s Inventory, Supplies and Materials system must determine if replenishment is needed on a regular schedule.",
+        "probability": 0.7,
+        "justification": "Determining replenishment needs is essential for maintaining inventory levels, thus this is a system requirement."
+    },
+    {
+        "chunk_id": 17,
+        "text": "The agency’s Inventory, Supplies and Materials system must schedule replenishment reviews on a regular basis.",
+        "probability": 0.65,
+        "justification": "Regular scheduling of replenishment reviews is necessary for effective inventory control management."
+    },
+    {
+        "chunk_id": 17,
+        "text": "The agency’s Inventory, Supplies and Materials system should compute overall production targets necessary to fill customers’ orders and meet operating schedules.",
+        "probability": 0.65,
+        "justification": "This suggests a desired functionality of the system which supports stakeholders' needs, indicating it should be a capability of the system."
+    },
+    {
+        "chunk_id": 17,
+        "text": "The agency’s Inventory, Supplies and Materials system should support predefined inspection plans and quality standards, as determined by management.",
+        "probability": 0.6,
+        "justification": "This indicates a functional recommendation for inspection and quality control which supports the overall purpose of the system."
+    },
+    {
+        "chunk_id": 17,
+        "text": "The agency’s Inventory, Supplies and Materials system should enable electronic approvals, notification alerts, and point-of-entry automated requisition forms.",
+        "probability": 0.6,
+        "justification": "This suggests features that would add value to the system and improve efficiency, indicating a system capability."
+    },
+    {
+        "chunk_id": 18,
+        "text": "Systems should make contract termination recommendations based on mathematical models of termination costs, ordering costs, and holding costs",
+        "probability": 0.8,
+        "justification": "This statement outlines a requirement for the system to analyze costs and make recommendations, indicating a capability the system must possess to assist stakeholders in decision-making."
+    },
+    {
+        "chunk_id": 18,
+        "text": "Support the budgeting of resources for Inventory, Supplies and Materials.",
+        "probability": 0.9,
+        "justification": "This requirement explicitly states that the system must have the capability to support budgeting, which is essential for managing inventory resources effectively."
+    },
+    {
+        "chunk_id": 18,
+        "text": "Identify available funds by item.",
+        "probability": 0.85,
+        "justification": "This statement describes a specific function the system must fulfill, essential for financial oversight and resource management."
+    },
+    {
+        "chunk_id": 18,
+        "text": "Distinguish available funds for items that are slow moving and carried in the inventory for more than one accounting cycle.",
+        "probability": 0.8,
+        "justification": "This requirement emphasizes the necessity for the system to manage inventory efficiently by recognizing funds pertaining to slow-moving items."
+    },
+    {
+        "chunk_id": 18,
+        "text": "Provide access to the core financial system to ensure that funds are available prior to submitting approval of a request for acquisition of inventory items.",
+        "probability": 0.85,
+        "justification": "This statement outlines a connectivity requirement for the system, indicating that it must interface with the core financial system for effective fund management."
+    },
+    {
+        "chunk_id": 18,
+        "text": "Disallow the creation of any obligation that would exceed the available funding.",
+        "probability": 0.9,
+        "justification": "This requirement indicates a constraint that must be enforced by the system to prevent overspending, highlighting its critical role in budgetary control."
+    },
+    {
+        "chunk_id": 18,
+        "text": "Identify funds utilized and rates of fund utilization by item.",
+        "probability": 0.85,
+        "justification": "This requirement specifies a function that the system needs to perform, namely tracking fund utilization which is essential for budget tracking."
+    },
+    {
+        "chunk_id": 18,
+        "text": "Control availability of funds by item.",
+        "probability": 0.9,
+        "justification": "This statement expresses a clear requirement that the system must manage and control fund availability per item, which is crucial for effective inventory management."
+    },
+    {
+        "chunk_id": 18,
+        "text": "Calculate fund usage and project the date on which funds will be exhausted at the current rate of usage.",
+        "probability": 0.9,
+        "justification": "This requirement outlines a necessary capability for the system to analyze and project fund usage, helping ensure timely budgetary decisions."
+    },
+    {
+        "chunk_id": 19,
+        "text": "The agency’s Inventory, Supplies and Materials system must provide access to the core financial system to obtain the following information.",
+        "probability": 0.9,
+        "justification": "This statement specifies a requirement for the system to provide access to a core financial system, outlining a clear condition that must be satisfied."
+    },
+    {
+        "chunk_id": 19,
+        "text": "Access to the full estimated cost of the interagency agreement (both direct and indirect costs need to be provided for evaluation).",
+        "probability": 0.85,
+        "justification": "This requirement mandates the system to provide access to financial details regarding interagency agreements, highlighting the necessary information needed for evaluation."
+    },
+    {
+        "chunk_id": 19,
+        "text": "Maintain transaction details to support account balances.",
+        "probability": 0.9,
+        "justification": "This requirement indicates that the system must be capable of maintaining transaction details, a necessary condition for ensuring accurate account balances."
+    },
+    {
+        "chunk_id": 19,
+        "text": "Provide access to a hard copy or an electronic copy (where cost effective) of the entire executed (signed) contract.",
+        "probability": 0.9,
+        "justification": "This clearly states a necessary functionality of the system to provide access to contracts, which is a critical requirement for financial processes."
+    },
+    {
+        "chunk_id": 19,
+        "text": "Identify the method of acquisition, e.g., purchase, donated, etc.",
+        "probability": 0.8,
+        "justification": "This requirement outlines the system's need to categorize acquisitions, representing an important specification for process management."
+    },
+    {
+        "chunk_id": 19,
+        "text": "Create a skeletal record or other mechanism for capturing information on item in-transit from the providing entity.",
+        "probability": 0.75,
+        "justification": "This indicates a requirement for the system to create a mechanism for tracking in-transit items, which is essential for inventory management."
+    },
+    {
+        "chunk_id": 20,
+        "text": "Complete the skeletal inventory record, or create an inventory record for items with no skeletal record, upon assuming possession of the inventory item",
+        "probability": 0.8,
+        "justification": "This statement specifies an action that the system must perform to manage inventory records, which aligns with the definition of system requirements."
+    },
+    {
+        "chunk_id": 20,
+        "text": "Record the method of acquiring each inventory item or bulk inventory items (e.g., direct purchase, completed work-in-process, donation, non-reciprocal transfer or reciprocal transfer), and the date of acquisition",
+        "probability": 0.8,
+        "justification": "This requirement outlines a necessary capability for the system to record acquisition methods and dates, meeting stakeholder needs for inventory management."
+    },
+    {
+        "chunk_id": 20,
+        "text": "Record quantity, date of physical receipt, and condition of item received when a condition assessment is required",
+        "probability": 0.8,
+        "justification": "This statement defines a condition the system must satisfy regarding the recording of inventory items, making it a valid system requirement."
+    },
+    {
+        "chunk_id": 20,
+        "text": "Record the inspection date for items delivered",
+        "probability": 0.75,
+        "justification": "Specifying that the system must record inspection dates of delivered items highlights a necessary aspect of inventory control."
+    },
+    {
+        "chunk_id": 20,
+        "text": "Record the acceptance date for items delivered",
+        "probability": 0.75,
+        "justification": "This requirement mandates a capability for the system that supports inventory management by tracking acceptance dates."
+    },
+    {
+        "chunk_id": 20,
+        "text": "Forward physical receipt information, including quantity and date of physical receipt, to the acquisition system and core financial system",
+        "probability": 0.85,
+        "justification": "This clearly outlines a mandatory interaction between systems, making it essential for operational requirements."
+    },
+    {
+        "chunk_id": 20,
+        "text": "Provide the ability to cross-reference requisition orders, contract numbers, and related interagency agreements",
+        "probability": 0.8,
+        "justification": "This statement articulates a necessary capability of the system that aids in the tracking and management of orders, fulfilling stakeholder needs."
+    },
+    {
+        "chunk_id": 20,
+        "text": "Enable electronic obligation of funds, approvals and signatures, and notification alerts for pending actions",
+        "probability": 0.85,
+        "justification": "This requirement describes functionalities necessary for financial operations, which the system must support."
+    },
+    {
+        "chunk_id": 20,
+        "text": "Enable periodic obligations such as contract-specified cost escalations to existing contract line numbers",
+        "probability": 0.8,
+        "justification": "This statement describes a capability the system should have to manage contract obligations effectively."
+    },
+    {
+        "chunk_id": 21,
+        "text": "Inventory, Supplies and Materials shall be recognized when title passes from vendor to the purchasing activity or when the product is delivered to the purchasing entity, whichever is earlier.",
+        "probability": 0.9,
+        "justification": "This statement describes a specific condition that the system must satisfy regarding the recognition of inventory, supplies, and materials, clearly defining a characteristic of the system's behavior."
+    },
+    {
+        "chunk_id": 21,
+        "text": "To maintain control of inventories, all acquisitions of, and expenditures for, inventory should be substantiated by accounting records and recorded in inventory records as close as feasible to the time the transactions occur.",
+        "probability": 0.8,
+        "justification": "This requirement outlines a necessary capability for the system to manage inventory control, emphasizing the importance of recording transactions accurately in the system."
+    },
+    {
+        "chunk_id": 21,
+        "text": "Internal control procedures and records are required to reflect the existence, completeness, rights/obligations, condition, valuation, pricing, presentation and disclosure associated with the inventory.",
+        "probability": 0.85,
+        "justification": "The need for internal control procedures indicates essential functionality that the system must support to ensure accurate inventory management and accountability."
+    },
+    {
+        "chunk_id": 21,
+        "text": "Management should be provided sufficient information via system query or reporting capabilities to monitor its inventory, supplies, and materials management activities and performance.",
+        "probability": 0.75,
+        "justification": "This statement specifies a capability that the system should have, highlighting the importance of information accessibility for management to effectively oversee inventory activities."
+    },
+    {
+        "chunk_id": 22,
+        "text": "Record changes in quantities, including unit of issue/measure, where applicable, for beginning balance adjustments, additions, and deletions, and compute ending balances by category",
+        "probability": 0.9,
+        "justification": "This statement defines a specific function that the Inventory, Supplies and Materials system must perform, which is a clear characteristic of a system requirement."
+    },
+    {
+        "chunk_id": 22,
+        "text": "Provide an audit trail for all adjustments, to include who made the adjustment and when, to quantities and units",
+        "probability": 0.9,
+        "justification": "This requirement specifies a necessary feature of the system that relates to accountability and traceability, which is essential for proper inventory management."
+    },
+    {
+        "chunk_id": 22,
+        "text": "Record the estimated value of donated inventory",
+        "probability": 0.85,
+        "justification": "This statement specifies a functionality that the system must have in terms of valuing inventory, which is a crucial part of inventory control."
+    },
+    {
+        "chunk_id": 22,
+        "text": "Generate data for the journal entries necessary for recording changes in the valuation including any associated gains or losses",
+        "probability": 0.8,
+        "justification": "This requirement indicates a necessary output of the system that relates to financial reporting, which is crucial for stakeholders."
+    },
+    {
+        "chunk_id": 22,
+        "text": "Record asset identifier",
+        "probability": 0.8,
+        "justification": "This requirement specifies a functionality that is fundamental for managing and tracking inventory assets within the system."
+    },
+    {
+        "chunk_id": 22,
+        "text": "Record location",
+        "probability": 0.75,
+        "justification": "Recording the location of assets is a critical requirement for effective inventory management and traceability in the system."
+    },
+    {
+        "chunk_id": 22,
+        "text": "Record the current owner (e.g., the agency, contractor, grantee, etc.)",
+        "probability": 0.75,
+        "justification": "This requirement pertains to inventory ownership, which is an essential aspect of asset management in any inventory system."
+    },
+    {
+        "chunk_id": 22,
+        "text": "Record an item’s condition",
+        "probability": 0.7,
+        "justification": "Recording the condition of inventory items is essential for assessing usability and determining inventory status, thus a valid system requirement."
+    },
+    {
+        "chunk_id": 22,
+        "text": "Provide for Physical Inventory/Cycle Counting functionality and processing",
+        "probability": 0.85,
+        "justification": "This requirement highlights the system's need to conduct inventory counts, which is crucial for maintaining accurate inventory records."
+    },
+    {
+        "chunk_id": 22,
+        "text": "Record the acquisition cost of individual items acquired through bulk purchase",
+        "probability": 0.8,
+        "justification": "This statement defines a specific information requirement that impacts inventory valuation, making it a valid system requirement."
+    },
+    {
+        "chunk_id": 22,
+        "text": "Provide information on current inventories and historical usage to be used in capacity planning",
+        "probability": 0.7,
+        "justification": "This indicates a capability that enhances decision-making for resource allocation, thus making it a relevant system requirement."
+    },
+    {
+        "chunk_id": 22,
+        "text": "Compute overall production targets necessary to fill customers’ orders and meet operating schedules",
+        "probability": 0.65,
+        "justification": "This requirement specifies that the system should assist in production planning, a necessary aspect for operational efficiency."
+    },
+    {
+        "chunk_id": 22,
+        "text": "Support predefined inspection plans and quality standards",
+        "probability": 0.6,
+        "justification": "This defines a necessary functionality related to quality control within the inventory management process."
+    },
+    {
+        "chunk_id": 22,
+        "text": "Support ownership status (i.e. owned, non-owned, or consigned)",
+        "probability": 0.65,
+        "justification": "This requirement reflects a feature that is crucial for managing different types of inventory items according to their ownership."
+    },
+    {
+        "chunk_id": 22,
+        "text": "Support multiple sources of supply and cost",
+        "probability": 0.6,
+        "justification": "This indicates a system feature that allows management of diverse cost sources, impacting procurement and inventory control."
+    },
+    {
+        "chunk_id": 23,
+        "text": "Record information on material returned by customers and provide customer credit/refund on items returned in accordance with the agency’s return policy",
+        "probability": 0.9,
+        "justification": "This statement defines a specific function that the system must perform, indicating a clear capability required to meet stakeholder needs."
+    },
+    {
+        "chunk_id": 23,
+        "text": "Record information on the procurement receipt document in sufficient detail to allow matching of receipt, purchase order/contract, and invoice for payment purposes.",
+        "probability": 0.9,
+        "justification": "This requirement specifies a necessary function of the system that ensures financial accuracy and accountability."
+    },
+    {
+        "chunk_id": 23,
+        "text": "Complete skeletal record of donated (including gifted or bequeathed items) items to include such information as quantity, description, estimated fair market value of each item received, receipt date, method of acquisition, etc.",
+        "probability": 0.85,
+        "justification": "This requirement outlines the details necessary for tracking donated items, highlighting the information the system must manage."
+    },
+    {
+        "chunk_id": 23,
+        "text": "Record the date of receipt or the date of acceptance is used, whichever is later",
+        "probability": 0.8,
+        "justification": "Recording crucial date information is necessary for compliance and operational tracking, indicating a required system behavior."
+    },
+    {
+        "chunk_id": 23,
+        "text": "Record partial and full receipts of orders along with items that are back ordered",
+        "probability": 0.85,
+        "justification": "This requirement specifies essential functions related to inventory tracking, indicating system capabilities that must be integrated."
+    },
+    {
+        "chunk_id": 23,
+        "text": "Provide for performing quantity and price conversions between different units of issue/measure.",
+        "probability": 0.75,
+        "justification": "This specifies a capability that the system must provide to support various measurement needs in inventory management."
+    },
+    {
+        "chunk_id": 23,
+        "text": "Identify transportation discrepancies (i.e., any discrepancy between the government or commercial bill of lading and item received), and generate the transportation discrepancy report",
+        "probability": 0.85,
+        "justification": "This requirement clarifies essential functionality for the system to comply with transport regulations and reporting."
+    },
+    {
+        "chunk_id": 23,
+        "text": "Assign lot control and serialization numbers",
+        "probability": 0.7,
+        "justification": "This indicates a necessary feature of the system for inventory traceability, ensuring accountability of items."
+    },
+    {
+        "chunk_id": 23,
+        "text": "Provide disposition codes for subsequent actions of rejected materials",
+        "probability": 0.7,
+        "justification": "This defines a necessary aspect of material management that the system must support to ensure process compliance."
+    },
+    {
+        "chunk_id": 23,
+        "text": "Record items being returned to vendor, including items on backorder",
+        "probability": 0.8,
+        "justification": "This specifies another functional requirement that ensures proper tracking and accountability within the system."
+    },
+    {
+        "chunk_id": 23,
+        "text": "Ensure incoming materials are appropriately labeled or marked and readily visible",
+        "probability": 0.6,
+        "justification": "This outlines a requirement for operational efficiency and inventory management within the system."
+    },
+    {
+        "chunk_id": 23,
+        "text": "Record the acceptance or rejection of new or returned items at their destination and the quantities of each.",
+        "probability": 0.9,
+        "justification": "This statement defines a critical capability for tracking inventory status, indicating a function that the system needs to fulfill."
+    },
+    {
+        "chunk_id": 24,
+        "text": "Update inventory on hand information as a result ",
+        "probability": 0.6,
+        "justification": "This statement implies a requirement for the system to update inventory information, which is necessary for effective inventory management."
+    },
+    {
+        "chunk_id": 24,
+        "text": "Update accountability records to record acceptance or rejection of new or returned items",
+        "probability": 0.7,
+        "justification": "This statement specifies that the system must track items' acceptance and rejection statuses, which is a fundamental aspect of inventory accountability."
+    },
+    {
+        "chunk_id": 24,
+        "text": "Record the date of acceptance for purposes of the Prompt Payment Act",
+        "probability": 0.8,
+        "justification": "This establishes a condition that the system must fulfill to comply with the Prompt Payment Act, indicating a legal requirement for documentation."
+    },
+    {
+        "chunk_id": 24,
+        "text": "Provide information, such as quantity, asset identifier, and cost on items received and accepted necessary to support the payment management function of the core financial system",
+        "probability": 0.9,
+        "justification": "This requirement ensures that the system provides critical financial data to support payment processes, which is essential for maintaining financial integrity."
+    },
+    {
+        "chunk_id": 24,
+        "text": "Identify shipping discrepancies between the items received and the information provided on shipping documents and purchase orders, to support follow-up",
+        "probability": 0.75,
+        "justification": "This requirement clarifies that the system must detect discrepancies, which is crucial for effective inventory management and operational accountability."
+    },
+    {
+        "chunk_id": 24,
+        "text": "Identify shipments of components for any inventoried items",
+        "probability": 0.7,
+        "justification": "This statement highlights the need for the system to track shipments of components, which directly impacts inventory management."
+    },
+    {
+        "chunk_id": 24,
+        "text": "Identify the intended location of the item and track its movement from the point of initial receipt to its final destination",
+        "probability": 0.85,
+        "justification": "This requirement is essential for maintaining control over the physical inventory by tracking item locations."
+    },
+    {
+        "chunk_id": 24,
+        "text": "Record identifiers, quantities, condition, location, and other information as determined by management, necessary to establish physical control",
+        "probability": 0.8,
+        "justification": "This specifies the types of information the system must record to manage inventory effectively, ensuring proper physical controls."
+    },
+    {
+        "chunk_id": 24,
+        "text": "Record items within an item class or category as determined necessary by management for maintaining control over inventory, supplies, and materials",
+        "probability": 0.75,
+        "justification": "This requirement ensures that the system categorizes items appropriately, which is critical for effective inventory management."
+    },
+    {
+        "chunk_id": 24,
+        "text": "Provide an identifier for identifying restrictions on the sale, or use, or disposal of inventory, supplies, and materials by category and item",
+        "probability": 0.8,
+        "justification": "This requirement highlights the need for tracking restrictions, which is vital for regulatory compliance and effective inventory control."
+    },
+    {
+        "chunk_id": 24,
+        "text": "Capture both unit cost and sales price of an inventory item",
+        "probability": 0.85,
+        "justification": "This requirement is necessary for financial management and accurate reporting of inventory value."
+    },
+    {
+        "chunk_id": 24,
+        "text": "Maintain sufficient information to support the inventory valuation method chosen in the Budgeting and Purchase Planning functions, consistent with Federal accounting requirements outlined in Appendix C",
+        "probability": 0.9,
+        "justification": "This ensures compliance with Federal accounting standards, making it a critical requirement for financial oversight."
+    },
+    {
+        "chunk_id": 24,
+        "text": "Include all appropriate purchase, transportation, and production costs incurred to get the item to its current condition and location",
+        "probability": 0.85,
+        "justification": "This stipulates that the system must track all cost components, which is important for accurate inventory valuation."
+    },
+    {
+        "chunk_id": 24,
+        "text": "Categorize inventory items as (1) inventory held for sale, (2) inventory held in reserve for future sale, (3) excess, obsolete, and unserviceable inventory, or (4) inventory held for repair",
+        "probability": 0.8,
+        "justification": "This classification is necessary for effective inventory management and operational efficiency, making it a system requirement."
+    },
+    {
+        "chunk_id": 24,
+        "text": "Provide interface data required to meet core financial system requirements",
+        "probability": 0.75,
+        "justification": "This indicates a need for system interoperability, critical for integrated financial management."
+    },
+    {
+        "chunk_id": 24,
+        "text": "Provide total cost information by financial category as described in section 1.2.1 for items added into inventory to the core financial system for posting by the General Ledger Management function and the Cost Management function",
+        "probability": 0.85,
+        "justification": "This is essential for accurate financial reporting and compliance, indicating a requirement for the system to handle financial data appropriately."
+    },
+    {
+        "chunk_id": 24,
+        "text": "If the agency has a cost accounting system to support a manufacturing, industrial fund, or similar activities, provide the cost of items, and other information as determined by management, needed to determine item consumption/usage and assess performance",
+        "probability": 0.7,
+        "justification": "This requirement outlines the need for supporting cost accounting and performance assessment, crucial for managerial decision-making."
+    },
+    {
+        "chunk_id": 24,
+        "text": "Provide information, such as description, quantity, asset identifier, and other information as specified by management, needed to support reconciliation between the inventory system’s records and other systems’ records",
+        "probability": 0.8,
+        "justification": "This ensures data consistency among systems, which is vital for the accuracy of inventory management."
+    },
+    {
+        "chunk_id": 25,
+        "text": "the system must be updated to reflect actual",
+        "probability": 0.8,
+        "justification": "This statement implies that the system has a requirement to ensure the accuracy of the inventory records by updating them to match the physical counts, reflecting a necessary behavior of the system."
+    },
+    {
+        "chunk_id": 25,
+        "text": "Provide support for physical verification of inventory balances by location and item type",
+        "probability": 0.9,
+        "justification": "This clearly outlines a requirement for the system to facilitate physical verification, which is essential for maintaining accurate inventory records."
+    },
+    {
+        "chunk_id": 25,
+        "text": "Record changes in physical condition (e.g., excellent, good, fair, poor), quantities, etc.",
+        "probability": 0.85,
+        "justification": "This indicates a specific functionality that the system must have in order to document the condition and quantity of inventory items."
+    },
+    {
+        "chunk_id": 25,
+        "text": "provide for the matching of physical counts with inventory quantity and financial records through cycle counting or other inventory management techniques",
+        "probability": 0.9,
+        "justification": "This requirement states that the system must facilitate the comparison of physical inventory counts with existing records, which is critical for accurate financial reporting."
+    },
+    {
+        "chunk_id": 25,
+        "text": "provide for reconciliation using beginning of period inventory balances, receipts, and dispositions",
+        "probability": 0.8,
+        "justification": "This specifies a necessary functionality for the system to ensure accuracy in inventory management through reconciliation of records."
+    },
+    {
+        "chunk_id": 25,
+        "text": "Retain records of physical inventory counts until (a) the count is reconciled and (b) all adjusting entries for the physical count are resolved",
+        "probability": 0.85,
+        "justification": "This indicates a requirement regarding data retention that the system must enforce to ensure compliance and accuracy in financial records."
+    },
+    {
+        "chunk_id": 25,
+        "text": "Identify all errors arising from reconciliation processes that apply to a time period prior to the last inventory adjustment",
+        "probability": 0.7,
+        "justification": "This reflects a necessary capability of the system to detect and address errors that occurred during the reconciliation process, ensuring reliability in inventory data."
+    },
+    {
+        "chunk_id": 25,
+        "text": "Enable the use of management determined error codes",
+        "probability": 0.75,
+        "justification": "This requirement outlines a feature that the system should have, allowing for categorization of errors, which is an important aspect of inventory management."
+    },
+    {
+        "chunk_id": 26,
+        "text": "Provide the ability to (1) identify historically slow periods of operation when there is little movement of Inventory, Supplies and Materials items, (2) prevent or minimize the movement of Inventory, Supplies and Materials items to be counted on the day the items are selected for counting, and (3) use transaction histories to trace the movement of items and reconcile the count",
+        "probability": 0.85,
+        "justification": "This text outlines clear capabilities that the system must provide regarding inventory management, directly indicating various functionalities required for proper operation."
+    },
+    {
+        "chunk_id": 26,
+        "text": "Restrict access to approve adjustments resulting from physical counts to only authorized individuals, including those having tiered or restricted levels of access",
+        "probability": 0.9,
+        "justification": "This statement identifies a clear requirement for the system's security and access control mechanisms, specifying the need for tiered authorization."
+    },
+    {
+        "chunk_id": 26,
+        "text": "Record approval of management of inventory adjustments and referrals of potential fraud or theft to investigators",
+        "probability": 0.75,
+        "justification": "This outlines a requirement for the system to maintain a record of inventory adjustments and related fraud management, necessary for operational accountability."
+    },
+    {
+        "chunk_id": 26,
+        "text": "Calculate the inventory accuracy rate, based on management approved methodology",
+        "probability": 0.8,
+        "justification": "This specifies a requirement for the system's functionality to calculate inventory accuracy, which is essential for effective inventory management."
+    },
+    {
+        "chunk_id": 26,
+        "text": "Record management identified assessment of risk (based on activity or turnover, dollar value, sensitivity/classification of item(s), and criticality of the item(s) to production or mission readiness) and degree of control required by segment, class, or type of Inventory, Supplies and Materials",
+        "probability": 0.85,
+        "justification": "This requirement addresses risk assessment and management, which is critical for maintaining the integrity of inventory processes."
+    },
+    {
+        "chunk_id": 26,
+        "text": "Provide cut-off date to ensure that all inventory and related items that should get counted do and aid in identifying items, for which title has not passed, that are received after the cut-off date are not included",
+        "probability": 0.9,
+        "justification": "This requirement deals with the cut-off date for inventory counting, which is essential for accurate inventory management."
+    },
+    {
+        "chunk_id": 26,
+        "text": "Provide information, such as (1) shipping and receiving records, (2) relocation of inventory items within a warehouse or facility, and (3) production usage records, to aid in the research of variance causes and to ensure the proper adjustment of inventory records",
+        "probability": 0.88,
+        "justification": "This elaborates on the data that the system should provide to support inventory variance analysis, indicating a requirement for comprehensive record keeping."
+    },
+    {
+        "chunk_id": 27,
+        "text": "The agency’s Inventory, Supplies and Materials system should record the identity of the employee/supervisor responsible for establishing and maintaining physical control over items by location, segment, type of item, etc.",
+        "probability": 0.8,
+        "justification": "This statement outlines a functionality that the system is expected to support in terms of accountability and tracking, which is a typical system requirement behavior."
+    },
+    {
+        "chunk_id": 27,
+        "text": "The agency’s Inventory, Supplies and Materials system must record reductions in the dollar value and quantity of inventory items destroyed, lost, or pilfered.",
+        "probability": 0.9,
+        "justification": "The use of 'must' indicates a mandatory capability that the system is required to fulfill, which aligns with the definition of a system requirement."
+    },
+    {
+        "chunk_id": 27,
+        "text": "The agency’s Inventory, Supplies and Materials system must send the appropriate information to the core financial system and cost accounting system to ensure that they stay in balance with the inventory system.",
+        "probability": 0.95,
+        "justification": "The requirement expresses a mandatory action related to system integration and data accuracy, making it a clear system requirement."
+    },
+    {
+        "chunk_id": 27,
+        "text": "The agency’s Inventory, Supplies and Materials system shall generate financial transactions to record the transfer of inventory between financial categories.",
+        "probability": 0.85,
+        "justification": "This describes a required behavior of the system related to financial tracking, which confirms it is a system requirement."
+    },
+    {
+        "chunk_id": 27,
+        "text": "The agency’s Inventory, Supplies and Materials system shall recognize and record unrealized holding gains/losses when using the latest acquisition cost method for valuing inventory.",
+        "probability": 0.8,
+        "justification": "The phrase 'shall recognize and record' indicates a required functionality of the system related to inventory valuation, qualifying it as a system requirement."
+    },
+    {
+        "chunk_id": 27,
+        "text": "The agency’s Inventory, Supplies and Materials system shall compute the value of items on the inventory record by multiplying quantities on hand or on loan by the unit cost of the applicable item.",
+        "probability": 0.85,
+        "justification": "This statement indicates a computational requirement of the system for inventory valuation, fitting the definition of a system requirement."
+    },
+    {
+        "chunk_id": 28,
+        "text": "Record changes in the location of an inventory item, such as from one warehouse to another, and any associated changes in the person or organization responsible for stewardship of the item",
+        "probability": 0.9,
+        "justification": "This statement outlines a specific action the system must perform regarding inventory management, which fits the definition of a system requirement."
+    },
+    {
+        "chunk_id": 28,
+        "text": "Record the asset identifier, description, cost, and quantities of items in transit from one location to another",
+        "probability": 0.9,
+        "justification": "This statement specifies what the system is required to track regarding items in transit, clearly defining a system requirement."
+    },
+    {
+        "chunk_id": 28,
+        "text": "Record the asset identifier, description, cost, and quantities of items shipped from contractors or vendors for which title has passed to the government",
+        "probability": 0.9,
+        "justification": "This requirement defines a specific capability the system must have for accounting purposes, indicating that it is a system requirement."
+    },
+    {
+        "chunk_id": 28,
+        "text": "Record the cost and quantity (including asset identifier and description data) of items shipped from the inventory organization to another organization for which accountability has been retained by the inventory organization until receipt by the recipient",
+        "probability": 0.9,
+        "justification": "This statement provides clear guidelines on what the system must record for accountability, aligning with the definition of a system requirement."
+    },
+    {
+        "chunk_id": 28,
+        "text": "Record the cost, quantity, and identity (including asset identifier and description data) of items in transit to the initial storage location, between storage locations, to a customer, or to a disposal activity",
+        "probability": 0.9,
+        "justification": "This outlines the specific data that the system must manage regarding items in transit, qualifying it as a system requirement."
+    },
+    {
+        "chunk_id": 28,
+        "text": "Require systematic review and follow-up of aged in-transit deliveries. Specifically, the system must require review and follow-up on a scheduled basis, i.e., after 30 days and 60 days.",
+        "probability": 0.85,
+        "justification": "This mandates an action that the system must enforce, indicating that it is a requirement for the system’s operation."
+    },
+    {
+        "chunk_id": 28,
+        "text": "Require a mandatory disposition review after 90 days",
+        "probability": 0.85,
+        "justification": "This statement specifies an essential action that the system must enforce, qualifying it as a system requirement."
+    },
+    {
+        "chunk_id": 29,
+        "text": "The agency’s Inventory, Supplies and Materials system must: Record the asset identifier, description, cost, and quantities of items transferred from its current status to 'in repair'.",
+        "probability": 0.9,
+        "justification": "This text outlines a specific requirement that defines what the system must do to support the transfer to repair status process."
+    },
+    {
+        "chunk_id": 29,
+        "text": "The agency’s Inventory, Supplies and Materials system must: Provide information to the core financial system to record the change in financial category.",
+        "probability": 0.9,
+        "justification": "This statement mandates that the system should provide specific information to another system, indicating it is a requirement for system behavior."
+    },
+    {
+        "chunk_id": 29,
+        "text": "The agency’s Inventory, Supplies and Materials system must: Adjust the valuation of inventory items in accordance with the repair accounting treatment selected by the agency in conformance with SFFAS Number 3.",
+        "probability": 0.9,
+        "justification": "This requirement specifies a condition the system must meet regarding accounting treatment, thus defining system behavior."
+    },
+    {
+        "chunk_id": 29,
+        "text": "The agency’s Inventory, Supplies and Materials system must: Capture the direct and indirect costs of repair activities using either the direct or allowance methods of accounting for inventory held for repair.",
+        "probability": 0.9,
+        "justification": "This requirement relates to the system's capability to capture necessary cost information, indicating a key function of the system."
+    },
+    {
+        "chunk_id": 29,
+        "text": "The agency’s Inventory, Supplies and Materials system must: Capture estimates for repair, via annual (or period) credit(s), to an allowance for repairs account.",
+        "probability": 0.9,
+        "justification": "This statement outlines a specific requirement that the system must fulfill regarding accounting for repairs, indicating a key behavior."
+    },
+    {
+        "chunk_id": 29,
+        "text": "The agency’s Inventory, Supplies and Materials system must: Record the transfer of an inventory item from the status of 'in repair' to its proper status and location.",
+        "probability": 0.9,
+        "justification": "This requirement specifies a crucial action the system must perform as part of returning inventory items, confirming its necessity."
+    },
+    {
+        "chunk_id": 30,
+        "text": "The agency’s Inventory, Supplies and Materials system must support the establishment (including technical specifications and accounting classification needed by the inventory system) of orders to be placed with a contractor or other government entity to perform production work on items needed.",
+        "probability": 0.9,
+        "justification": "This statement clearly defines a capability that the system must satisfy, specifically regarding the establishment of orders, which is essential for system operation."
+    },
+    {
+        "chunk_id": 30,
+        "text": "The agency’s Inventory, Supplies and Materials system must project the production elements necessary to complete the production cycle.",
+        "probability": 0.85,
+        "justification": "This requirement specifies a necessary system functionality concerning production elements, indicating what the system must do to ensure production efficiency."
+    },
+    {
+        "chunk_id": 30,
+        "text": "The agency’s Inventory, Supplies and Materials system must provide financial information in the appropriate format and method to other financial management systems used by the agency.",
+        "probability": 0.88,
+        "justification": "This text outlines a requirement for the system to interact with other systems, dictating how it must handle financial information for compatibility."
+    },
+    {
+        "chunk_id": 30,
+        "text": "The agency’s Inventory, Supplies and Materials system must accept cost and other appropriate information from a separate cost accounting system to support cost accumulation by work elements such as job order, activities, products, etc.",
+        "probability": 0.92,
+        "justification": "This requirement specifies a system capability regarding interoperability with other accounting systems and specifies conditions for cost accumulation, indicative of needed operational functionality."
+    },
+    {
+        "chunk_id": 30,
+        "text": "The agency’s Inventory, Supplies and Materials system must track accumulated costs, by asset identifier, including the cost of direct materials, direct labor, and overhead where applicable (including standard costs and rates, if applicable) for work -in-process.",
+        "probability": 0.93,
+        "justification": "This statement articulates a clear requirement for tracking financial data related to production processes, essential for system behavior."
+    },
+    {
+        "chunk_id": 31,
+        "text": "Transfer work-in-progress to finished goods for inventory categorization and accounting purposes",
+        "probability": 0.75,
+        "justification": "This statement describes a specific capability that the Inventory, Supplies and Materials system must satisfy, which is to ensure proper categorization of work-in-progress items."
+    },
+    {
+        "chunk_id": 31,
+        "text": "Identify the intended location of the item and track its movement from the point of initial receipt to its final destination",
+        "probability": 0.85,
+        "justification": "This requirement specifies a functionality of tracking items, which is essential for inventory control and management within the system."
+    },
+    {
+        "chunk_id": 31,
+        "text": "Record identifiers, quantities, condition, location, and other elements necessary to establish control",
+        "probability": 0.8,
+        "justification": "This statement outlines the necessary data that must be recorded for inventory management, highlighting a property the system must have."
+    },
+    {
+        "chunk_id": 31,
+        "text": "Classify inventory items by item class or type to meet agency needs for management and control",
+        "probability": 0.7,
+        "justification": "This requirement indicates a functionality related to categorization of inventory, which is important for effective management."
+    },
+    {
+        "chunk_id": 31,
+        "text": "Accept Unfilled Orders",
+        "probability": 0.65,
+        "justification": "This requirement pertains to the system's ability to process and record financial transactions related to orders, fulfilling a critical operational need."
+    },
+    {
+        "chunk_id": 31,
+        "text": "Post Discrepancies",
+        "probability": 0.68,
+        "justification": "This requirement outlines the need to document discrepancies in the ordering process, which is essential for identifying and resolving issues in inventory management."
+    },
+    {
+        "chunk_id": 31,
+        "text": "Record Acceptance and Rejection Summary",
+        "probability": 0.7,
+        "justification": "This statement describes recording essential metrics regarding supplier performance, which is necessary for effective management and auditing."
+    },
+    {
+        "chunk_id": 31,
+        "text": "Identify Days Supply",
+        "probability": 0.6,
+        "justification": "This requirement states a need for forecast-based inventory management, which is a crucial aspect of maintaining optimal stock levels."
+    },
+    {
+        "chunk_id": 31,
+        "text": "Master Inventory",
+        "probability": 0.75,
+        "justification": "This requirement specifies the need to maintain comprehensive details about inventory, which is fundamental for management purposes."
+    },
+    {
+        "chunk_id": 31,
+        "text": "Inactive Inventory",
+        "probability": 0.55,
+        "justification": "This statement indicates a need for tracking items that are not utilized, which aids in better inventory management and decisions on stock."
+    },
+    {
+        "chunk_id": 31,
+        "text": "Item Expiration/Shelf Life",
+        "probability": 0.6,
+        "justification": "This requirement illustrates the necessity of monitoring item expiration, which is critical for maintaining inventory integrity and safety."
+    },
+    {
+        "chunk_id": 31,
+        "text": "Cycle Count",
+        "probability": 0.62,
+        "justification": "This requirement outlines the need for systematic inventory verification, which is key to maintaining accuracy in inventory records."
+    },
+    {
+        "chunk_id": 31,
+        "text": "Inventory Accuracy",
+        "probability": 0.55,
+        "justification": "This statement reflects the need for the system to maintain precise inventory records, which is fundamental to operational efficiency."
+    },
+    {
+        "chunk_id": 32,
+        "text": "The inventory system must be able to account for items or activities associated with these types of inventory",
+        "probability": 0.9,
+        "justification": "This statement establishes a clear requirement for the inventory system to perform a specific function related to accounting for inventory types, meeting the definition of a system requirement."
+    },
+    {
+        "chunk_id": 32,
+        "text": "The order should identify projected bills of material, manufacturing requirements, and production time to produce or repair products",
+        "probability": 0.7,
+        "justification": "This requirement outlines specific information that must be included in production orders, signifying it is essential for system operations in inventory management."
+    },
+    {
+        "chunk_id": 32,
+        "text": "Accumulated costs of work-in-progress, by asset identifier, program, project code, or other management specified criteria, including the cost of direct materials, direct labor, and overhead, where applicable",
+        "probability": 0.8,
+        "justification": "This describes necessary functionalities related to work-in-progress tracking, which is crucial for managing costs within the system and aligns with the characteristics expected from system requirements."
+    },
+    {
+        "chunk_id": 32,
+        "text": "Disposition is the action taken to physically transfer property from one’s accountability to another’s accountability.",
+        "probability": 0.6,
+        "justification": "This statement outlines an essential process that must be managed by the system, reflecting a requirement pertaining to the handling of inventory items."
+    },
+    {
+        "chunk_id": 33,
+        "text": "The agency’s Inventory, Supplies and Materials system must provide access to the following information: fiscal year, transaction code (e.g. sale, transfer, loan, disposal), item description, asset identifier, performance measure code, transaction dates (date item issued/disposed and received by customer), status (in storage, in transit, etc.), quantity distributed, in transit, disposed.",
+        "probability": 0.9,
+        "justification": "This statement specifies the capabilities that the system must have in order to operate effectively, which is a central aspect of system requirements."
+    },
+    {
+        "chunk_id": 33,
+        "text": "The agency’s Inventory, Supplies and Materials system must reflect changes in the quantity and cost of items on hand due to distribution/disposal activities.",
+        "probability": 0.95,
+        "justification": "This requirement outlines a necessary functionality of the system related to accounting for inventory, which is critical for its operation."
+    },
+    {
+        "chunk_id": 33,
+        "text": "The agency’s Inventory, Supplies and Materials system must support account balances by providing an audit trail with access to specific transaction details.",
+        "probability": 0.92,
+        "justification": "This requirement speaks to system traceability and transparency, which are essential for financial management and audit compliance."
+    },
+    {
+        "chunk_id": 33,
+        "text": "The agency’s Inventory, Supplies and Materials system must use a chart of accounts consistent with the basic number structure and titles provided in the USSGL.",
+        "probability": 0.88,
+        "justification": "This outlines a necessary structural characteristic of the system's accounting framework, critical for adherence to financial standards."
+    },
+    {
+        "chunk_id": 34,
+        "text": "Access to the following customer information: authorization of customer eligibility, organization code, trading partner (Treasury Dept code), loan agreement number and all associated delivery order numbers or task order numbers (including change order number, if any), purchase order number (including change order number, if any), blanket purchase agreement (BPA) number and all associated BPA call numbers (including change order number, if any), Change in product or service descriptions, Change in unit of measure, Change in quantity, Change in total amount, Change in delivery/performance schedule, Provide the ability to compare customer order records to issue records and flag any differences for follow-up, cost center code, object classification, project code, program code, funded through date (for those contracts that are incrementally funded), variances between available funds provided prior to order fulfillment and the sales price of items requested, quantities requested.",
+        "probability": 0.92,
+        "justification": "This text lists specific information that the system must have access to in order to function correctly, detailing requirements for the handling of customer information relevant to inventory, which aligns with the definition of system requirements as specifications guiding the system's behavior."
+    },
+    {
+        "chunk_id": 34,
+        "text": "Record unfilled orders if checks or cash are received with the customer order, record it against the customer order and send the information to the Receipt Management function of the core financial system for proper recognition of the associated liability to reflect the customer advance.",
+        "probability": 0.87,
+        "justification": "This statement outlines a specific functionality that the system must perform—recording unfilled orders and handling customer advances—which fits the definition of a system requirement."
+    },
+    {
+        "chunk_id": 34,
+        "text": "Differentiate between price and historical cost.",
+        "probability": 0.8,
+        "justification": "This requirement specifies a capability the system must have, which is distinguishing between different cost types, thus meeting system requirement criteria."
+    },
+    {
+        "chunk_id": 34,
+        "text": "Record revenue earned and the appropriate offsetting account (e.g., cash, receivables, advances) in the amount for which the inventory items are sold (price).",
+        "probability": 0.88,
+        "justification": "This text describes a requirement for the system to manage financial transactions accurately, thus meeting the definition of a system requirement."
+    },
+    {
+        "chunk_id": 34,
+        "text": "Identify item requests/orders for which the funds designated by the customer to purchase the items is less than the sales price of the items due to price changes, etc.",
+        "probability": 0.85,
+        "justification": "This requirement indicates a specific capability necessary for the system to ascertain discrepancies in funding, aligning with the definition of system requirements."
+    },
+    {
+        "chunk_id": 34,
+        "text": "Record the consumption (including cost, asset identifier, description, quantity, etc.)",
+        "probability": 0.9,
+        "justification": "This requirement specifies a functionality of the system to maintain detailed records of consumption which is essential for operational tracking, thereby fulfilling the criteria of a system requirement."
+    },
+    {
+        "chunk_id": 35,
+        "text": "Provide indicators to identify any sensitive, classified, or other management determined items which restrict the loan or disposal process of an inventory, supplies, or material item",
+        "probability": 0.8,
+        "justification": "The text specifies a functionality that the system must implement to handle sensitive items, which relates directly to system requirements for behavior."
+    },
+    {
+        "chunk_id": 35,
+        "text": "Flag any restricted inventory, supplies, or materials items that are designated for loan or disposal and provide a system control, which must be overridden by management, to prevent improper loan or disposal activities",
+        "probability": 0.85,
+        "justification": "This is a clear requirement for the system to flag restricted items and manage controls on loans and disposals, indicating necessary system behavior."
+    },
+    {
+        "chunk_id": 35,
+        "text": "The agency’s Supplies and Materials system should provide the following capabilities: Access other information where applicable and available",
+        "probability": 0.75,
+        "justification": "This indicates that the system must have capabilities to access additional required information, which aligns with system requirement specifications."
+    },
+    {
+        "chunk_id": 35,
+        "text": "Capability to use Electronic Data Interchange (EDI) to obtain customer orders electronically without the need for manual keying",
+        "probability": 0.9,
+        "justification": "This requirement emphasizes a system capability that must exist to streamline order processing, qualifying it as a system behavior necessity."
+    },
+    {
+        "chunk_id": 35,
+        "text": "Access to the following information: pick lists to be used in pulling inventory items from storage",
+        "probability": 0.7,
+        "justification": "Specifying the need for accessing pick lists directly supports the requirements for system operation in inventory management."
+    },
+    {
+        "chunk_id": 35,
+        "text": "Provide the ability to backorder unfilled customer orders as policy permits when insufficient stock is available to fulfill the total requirement",
+        "probability": 0.85,
+        "justification": "This statement outlines a functional capability that the system must provide, indicating an essential aspect of its operation."
+    },
+    {
+        "chunk_id": 35,
+        "text": "Provide the ability to compare customer order records to issue records and flag any differences for follow-up",
+        "probability": 0.8,
+        "justification": "The text refers to a requirement to compare records and manage discrepancies, underscoring necessary system operations."
+    },
+    {
+        "chunk_id": 35,
+        "text": "Provide quality controls to ensure that all appropriate costs have been provided to the pricing formula for a particular customer order",
+        "probability": 0.9,
+        "justification": "This clearly indicates a requirement for the system to include quality controls, crucial in pricing customer orders."
+    },
+    {
+        "chunk_id": 35,
+        "text": "Provide the ability to develop the information necessary, (e.g., payment terms, invoice date, item quantity, unit price, extended price, invoice amount, and additional charges such as transportation, etc.)",
+        "probability": 0.85,
+        "justification": "This outlines essential functionalities that the system must be capable of delivering, fitting the definition of system requirements."
+    },
+    {
+        "chunk_id": 36,
+        "text": "Account for the proceeds resulting from the disposal process",
+        "probability": 0.85,
+        "justification": "This statement describes a specific capability that the Inventory, Supplies and Materials system must satisfy to fulfill its purpose, making it a clear system requirement."
+    },
+    {
+        "chunk_id": 36,
+        "text": "Quantity and cost of items designated as 'excess, obsolete, unserviceable, or unissuable'",
+        "probability": 0.8,
+        "justification": "This provides a specification of what the system should track regarding inventory items deemed excess or otherwise, indicating necessary functionality for the system."
+    },
+    {
+        "chunk_id": 36,
+        "text": "Identify Munition List Items, small arms, and other controlled items such as Flight - Safety Critical Aircraft Parts (FSCAP) and items requiring trade security controls",
+        "probability": 0.9,
+        "justification": "This requirement outlines specific types of items the system must be able to identify due to regulatory and safety implications, making it essential functionality for compliance."
+    },
+    {
+        "chunk_id": 37,
+        "text": "The data elements a particular agency includes in its accounting classification structure will depend in part on the implementation strategy for the SGL, data aggregation requirements for preparation of financial statements under the CFO Act, appropriation structure, and other reporting and management needs of the agency.",
+        "probability": 0.7,
+        "justification": "This text outlines critical conditions that a financial management system must satisfy, particularly regarding how an agency should structure its accounting classification to meet various requirements. It implies necessary capabilities and conditions that the system must fulfill."
+    },
+    {
+        "chunk_id": 38,
+        "text": "Acquisition of Inventory, Supplies and Materials means to procure, purchase, or obtain in any manner, including transfer, acquisition from excess, donation, manufacture, or production at government-owned plants or facilities.",
+        "probability": 0.7,
+        "justification": "This text describes a specific action that must be taken regarding the acquisition of inventory and materials, indicating a requirement on what the system must facilitate."
+    },
+    {
+        "chunk_id": 38,
+        "text": "Action Code Identifies whether the transaction is a new action or a modification of an existing record.",
+        "probability": 0.6,
+        "justification": "This indicates a necessity for the system to differentiate between new and modified transactions, suggesting a system requirement for transaction management."
+    },
+    {
+        "chunk_id": 38,
+        "text": "Agency Single Integrated Financial Management System shall encompass the software, hardware, personnel, processes (manual and automated), procedures, controls, and data necessary to carry out financial management functions.",
+        "probability": 0.9,
+        "justification": "This statement outlines the comprehensive components that the financial management system must include, marking it as a definitive system requirement."
+    },
+    {
+        "chunk_id": 38,
+        "text": "Asset Identifier shall be a string of alpha numeric characters that enable the identification of group of like items.",
+        "probability": 0.8,
+        "justification": "The Asset Identifier text specifies a necessary format and function for identifying inventory items, indicating a requirement for the system's functionality."
+    },
+    {
+        "chunk_id": 38,
+        "text": "Federal accounting standards require that recorded costs for inventory and PP&E assets include all costs incurred to bring these assets to the form and location suitable for their intended use.",
+        "probability": 0.7,
+        "justification": "This text sets a regulatory condition that the system must satisfy regarding cost recording and asset management, thus representing a requirement."
+    },
+    {
+        "chunk_id": 39,
+        "text": "The need for total costs is important for cost accounting, financial reporting, and asset valuation purposes.",
+        "probability": 0.85,
+        "justification": "This statement indicates an essential requirement for the system to address total costs for effective financial management, aligning with stakeholder needs for cost accounting and reporting."
+    },
+    {
+        "chunk_id": 39,
+        "text": "Agencies will have to determine what organization will determine the coding of assets, e.g., program or finance.",
+        "probability": 0.75,
+        "justification": "This implies that the system must provide functionality for agencies to define and manage asset coding, which is a critical aspect of asset management within the system."
+    },
+    {
+        "chunk_id": 39,
+        "text": "Bulk funding is particularly appropriate if numerous purchases using the same type of funds are to be made during a given period.",
+        "probability": 0.7,
+        "justification": "This suggests a requirement for the system to support bulk funding mechanisms, allowing for multiple purchases under a defined financial framework, which aligns with efficient financial operations."
+    },
+    {
+        "chunk_id": 40,
+        "text": "The contract number should consist of alpha characters in the first positions to indicate the agency, followed by alpha-numeric characters identifying bureaus, offices, or other administrative subdivisions authorized to enter into contracts.",
+        "probability": 0.75,
+        "justification": "This text specifies a condition that a contract number must satisfy, indicating a requirement for its structure based on agency guidelines."
+    },
+    {
+        "chunk_id": 40,
+        "text": "Contracting includes description (but not determination) of supplies and services required, selection and solicitation of sources, preparation and award of contracts, and all phases of contract administration.",
+        "probability": 0.65,
+        "justification": "This statement describes what contracting must encompass, providing detailed specifications for the contracting process."
+    },
+    {
+        "chunk_id": 40,
+        "text": "This would include physical control of the property and the tracking of its movement and valuation of the item(s) in accordance with SFFAS #3 including adding incidental and repair costs, as needed, to the value.",
+        "probability": 0.7,
+        "justification": "This text outlines the requirements for managing inventory and supplies, indicating the system must provide physical control and tracking capabilities."
+    },
+    {
+        "chunk_id": 40,
+        "text": "The core financial system receives data from all other financial and mixed systems and from direct user input, and it provides data and supports processing for those systems that need it.",
+        "probability": 0.8,
+        "justification": "This statement identifies the responsibilities and functions of the core financial system, indicating requirements for data handling and support."
+    },
+    {
+        "chunk_id": 41,
+        "text": "Cycle Counting shall be utilized to validate the accuracy of Inventory, Supplies and Materials records and controls.",
+        "probability": 0.8,
+        "justification": "This statement specifies a methodology (Cycle Counting) that shall be used to ensure the accuracy of inventory records, thus outlining a clear system requirement for inventory management."
+    },
+    {
+        "chunk_id": 41,
+        "text": "Disbursement shall include payments made using cash, check, or electronic transfer.",
+        "probability": 0.7,
+        "justification": "This statement defines a specific requirement for the processing of disbursements, detailing how payments are to be made, which is necessary for a financial system."
+    },
+    {
+        "chunk_id": 41,
+        "text": "Designated Official shall refer to the organizational element responsible for the process step.",
+        "probability": 0.65,
+        "justification": "This defines an organizational requirement for accountability and responsibility within the system, which is essential for proper governance in financial processes."
+    },
+    {
+        "chunk_id": 41,
+        "text": "Disbursement Authority shall be established to disburse public money to officers and employees of other Federal agencies.",
+        "probability": 0.75,
+        "justification": "This requirement indicates the need for a defined authority that is responsible for handling public funds, which is a crucial aspect of financial management."
+    },
+    {
+        "chunk_id": 41,
+        "text": "Direct Cost shall include salaries, materials, and other specific costs associated directly with outputs.",
+        "probability": 0.7,
+        "justification": "This statement sets forth a requirement concerning how costs are allocated and accounted for, ensuring that financial records accurately reflect expenditures."
+    },
+    {
+        "chunk_id": 42,
+        "text": "Effective Date The date of contract award or the stipulated date, whichever is later.",
+        "probability": 0.6,
+        "justification": "This text describes a specific condition regarding the timing related to a contract, indicating a behavior the system must accommodate."
+    },
+    {
+        "chunk_id": 42,
+        "text": "Electronic Commerce Electronic techniques for accomplishing business transactions including electronic mail or messaging, World Wide Web technology, electronic bulletin boards, purchase cards, EFT, and electronic data interchange (EDI).",
+        "probability": 0.7,
+        "justification": "This part outlines various electronic methods for conducting business that the system must support, defining capabilities required for its operation."
+    },
+    {
+        "chunk_id": 42,
+        "text": "Electronic Data Interchange A technique for electronically transferring and storing formatted information between computers utilizing established and published formats and codes, as authorized by the applicable Federal Information Processing Standards.",
+        "probability": 0.8,
+        "justification": "This describes a specific requirement for the system to handle electronic data interchange, indicating a specific behavior that the system must fulfill."
+    },
+    {
+        "chunk_id": 42,
+        "text": "Enterprise Architecture A strategic information asset base that defines the business, information necessary to operate the business, technologies necessary to support the business operations, and transitional processes for implementing new technologies in response to the Federal Enterprise Architecture Framework.",
+        "probability": 0.75,
+        "justification": "This outlines the overarching framework and requirements that the system must adhere to, defining necessary business processes and technologies."
+    },
+    {
+        "chunk_id": 42,
+        "text": "Final Acceptance Indicator Designated agency official acknowledgement that final acceptance has occurred.",
+        "probability": 0.65,
+        "justification": "This describes a requirement related to the system's functionality, indicating a need for acknowledgment processes as part of its operations."
+    },
+    {
+        "chunk_id": 42,
+        "text": "Financial System An information system, comprised of one or more applications, that is used for any of the following: collecting, processing, maintaining, transmitting, and reporting data about financial events; supporting financial planning or budgeting activities; accumulating and reporting cost information; or supporting the preparation of financial statements.",
+        "probability": 0.85,
+        "justification": "This explicitly defines the capabilities and characteristics that the financial system must have to meet functional requirements."
+    },
+    {
+        "chunk_id": 43,
+        "text": "A financial system supports the financial functions required to track financial events, or provide financial information significant to the financial management of the agency, and/or required for the preparation of financial statements.",
+        "probability": 0.8,
+        "justification": "This text describes the essential functions that a financial system must provide, indicating requirements for its capabilities."
+    },
+    {
+        "chunk_id": 43,
+        "text": "A financial system encompasses automated and manual processes, procedures, controls, data, hardware, software, and support personnel dedicated to the operation and maintenance of system functions.",
+        "probability": 0.7,
+        "justification": "This statement outlines the components that are necessary for the financial system, suggesting requirements for its structure and support."
+    },
+    {
+        "chunk_id": 43,
+        "text": "A financial system may include multiple applications that are integrated through a common database or are electronically interfaced, as necessary, to meet defined data and processing requirements.",
+        "probability": 0.75,
+        "justification": "This text indicates that integration and interface capabilities are required for the financial system to fulfill its data processing needs."
+    },
+    {
+        "chunk_id": 44,
+        "text": "Costs associated with carrying inventory and may include any or all of the following costs: storage space cost, handling cost, obsolescence losses, shrinkage, and clerical costs.",
+        "probability": 0.7,
+        "justification": "This statement outlines specific costs associated with inventory management, which could be considered a requirement for any system that manages inventory, necessitating that it accounts for various associated costs."
+    },
+    {
+        "chunk_id": 44,
+        "text": "Any equipment, or interconnected systems or subsystems of equipment, that is used in the automatic acquisition, storage, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the agency.",
+        "probability": 0.9,
+        "justification": "This text explicitly defines the types of equipment and systems necessary for handling data and information, which constitutes a clear system requirement for information technology systems."
+    },
+    {
+        "chunk_id": 44,
+        "text": "A need for information, such as data requirements, reporting needs, internal controls, or edit requirements, required by the acquisition and finance functions as a result of transactions within the single integrated financial management system.",
+        "probability": 0.85,
+        "justification": "This statement highlights the specific information needs and controls that the financial management system must fulfill, clearly identifying requirements for data handling and reporting."
+    },
+    {
+        "chunk_id": 44,
+        "text": "Plan of organization, methods, and procedures adopted by management to ensure that (1) resource use is consistent with laws, regulations, and policies; (2) resources are safeguarded against waste, loss, and misuse; and (3) reliable data are obtained, maintained, and fairly disclosed in reports.",
+        "probability": 0.8,
+        "justification": "This defines a structured approach to resource management and compliance that the system must implement to ensure proper functionality and accountability."
+    },
+    {
+        "chunk_id": 44,
+        "text": "The primary method used by most federal agencies to electronically bill and/or pay for services and supplies within the government.",
+        "probability": 0.75,
+        "justification": "This indicates a requirement for an electronic billing and payment system within federal agencies, specifying a necessary capability of the system."
+    },
+    {
+        "chunk_id": 45,
+        "text": "The principal objective of the sale or transfer of inventory is to provide a product or service for a fee that generally recovers full cost or an identified portion of the cost.",
+        "probability": 0.7,
+        "justification": "This statement outlines a key objective that the inventory management system must satisfy, indicating a functional requirement that the system shall ensure cost recovery through product or service sales."
+    },
+    {
+        "chunk_id": 45,
+        "text": "The Financial community interfaces with the program/contracting function in order to obtain information needed to accomplish its functional requirements.",
+        "probability": 0.6,
+        "justification": "This specifies a requirement for the system to support interfacing between financial functions and program/contracting functions, highlighting integration needs."
+    },
+    {
+        "chunk_id": 45,
+        "text": "All agency resources committed to the inventory and related property process, including, but not limited to human resources, information hardware and software systems, acquisition process documentation, as well as applicable regulations, policies, procedures and agency-implementing guidance and instruction.",
+        "probability": 0.8,
+        "justification": "This statement implies that the system must be capable of managing various types of resources for inventory processes, representing a comprehensive requirement for resource integration."
+    },
+    {
+        "chunk_id": 45,
+        "text": "Lead Time is the total number of days from the time of need identification for an item until the item is placed into inventory.",
+        "probability": 0.6,
+        "justification": "This defines a temporal requirement that the system must track and manage, indicating a performance characteristic regarding inventory management timeframes."
+    },
+    {
+        "chunk_id": 46,
+        "text": "Mixed System An information system that supports both financial and non-financial functions of the Federal government or components thereof.",
+        "probability": 0.7,
+        "justification": "This statement describes a capability that the information system must possess, which aligns with defining system behavior and specifications."
+    },
+    {
+        "chunk_id": 46,
+        "text": "Obligation A binding agreement that will result in outlays, immediately or in the future.",
+        "probability": 0.6,
+        "justification": "This statement describes a condition that is essential for the system, particularly concerning budgetary resources, indicating necessary behavior of the system."
+    },
+    {
+        "chunk_id": 47,
+        "text": "Obligations are amounts of orders placed, contracts awarded, services received, and similar transactions for bona fide needs existing during a given period that will require payments during the same or a future period and that comply with applicable laws and regulations.",
+        "probability": 0.75,
+        "justification": "This statement specifies what obligations are and outlines the need for compliance with applicable laws and regulations, indicating behaviors or properties that the system must incorporate."
+    },
+    {
+        "chunk_id": 47,
+        "text": "Partial Payments Payments for accepted supplies and services that are only a part of the contract requirements.",
+        "probability": 0.7,
+        "justification": "This defines a capability of the system regarding how payments are to be managed when dealing with partial deliveries, which must be addressed by the system design."
+    },
+    {
+        "chunk_id": 47,
+        "text": "Payment A government disbursement of monies to a contractor in accordance with contract terms.",
+        "probability": 0.65,
+        "justification": "This statement describes a fundamental function of the system related to making payments in accordance with established contract terms, which represents a requirement for any financial system."
+    },
+    {
+        "chunk_id": 47,
+        "text": "The payment management function consists of the following processes: payee information maintenance, payment warehousing, payment execution, and payment confirmation and follow-up.",
+        "probability": 0.8,
+        "justification": "This outlines specific functions that the payment management aspect of the system must include, providing clear capabilities that need to be designed into the system."
+    },
+    {
+        "chunk_id": 47,
+        "text": "Performance Measure Code A code used to identify the performance goal that would be associated with the PO, so that it would be easy to link performance execution (obligations) to the approved performance plans/measures.",
+        "probability": 0.7,
+        "justification": "This indicates a requirement for the system to incorporate a performance measurement system linking obligations to performance goals, guiding system design."
+    },
+    {
+        "chunk_id": 48,
+        "text": "Proper Invoice must meet the requirements of 5 CFR, Chapter 3, Sec. 1315.9(b) and can include receiving reports and delivery tickets when contractually designated as invoices.",
+        "probability": 0.8,
+        "justification": "This statement specifies a requirement for what constitutes a proper invoice within the context of the system, indicating conditions that must be satisfied for the invoices."
+    },
+    {
+        "chunk_id": 48,
+        "text": "Receiving Report must meet the requirements of FAR 32.905(f) that indicates government acceptance of supplies delivered or services performed by the contractor.",
+        "probability": 0.85,
+        "justification": "This statement defines a requirement for what information a receiving report must contain in order to be valid for government acceptance, thus detailing a specific condition that the system must fulfill."
+    },
+    {
+        "chunk_id": 48,
+        "text": "Purchase Order shall be an offer by the government to buy supplies or services, including construction and research and development, upon specified terms and conditions.",
+        "probability": 0.75,
+        "justification": "This specifies that a purchase order is a formal requirement detailing what the government needs to initiate a purchase transaction, establishing a crucial aspect of system functionality."
+    },
+    {
+        "chunk_id": 49,
+        "text": "Mandatory requirements describe what the system must do and consist of the minimum acceptable functionality necessary to establish a system.",
+        "probability": 0.9,
+        "justification": "This statement clearly defines that there are mandatory requirements that a system must fulfill, aligning with the definition of system requirements as capabilities that the system must satisfy."
+    },
+    {
+        "chunk_id": 49,
+        "text": "These requirements apply to existing systems in operation and new systems planned or under development.",
+        "probability": 0.85,
+        "justification": "This indicates that the requirements are relevant to both current and future systems, suggesting that they govern the systems' behaviors and specifications, which is a characteristic of system requirements."
+    },
+    {
+        "chunk_id": 49,
+        "text": "Agencies should consider value-added features when judging systems options.",
+        "probability": 0.7,
+        "justification": "This implies that agencies are encouraged to evaluate optional features that may enhance system performance, supporting the notion that system requirements can include desirable capabilities beyond the minimum necessary functionalities."
+    },
+    {
+        "chunk_id": 50,
+        "text": "Items that require special inventory controls such as precious metals, small arms, munitions list items, and Flight Safety Critical Aircraft Parts",
+        "probability": 0.8,
+        "justification": "This statement implies that there are inventory control requirements for specific items, indicating a need for a system that can handle such special inventory controls."
+    },
+    {
+        "chunk_id": 50,
+        "text": "The specified payment date is three business days after the payment office releases the EFT payment transaction instruction.",
+        "probability": 0.7,
+        "justification": "This statement indicates a specific requirement regarding payment processing timing, essential for the system to manage payments appropriately."
+    },
+    {
+        "chunk_id": 50,
+        "text": "A uniform list of accounts and support transactions that standardizes Federal agency accounting and supports the preparation of standard external reports.",
+        "probability": 0.75,
+        "justification": "This suggests a requirement for the system to maintain a standardized accounting structure, essential for interoperability and reporting."
+    },
+    {
+        "chunk_id": 50,
+        "text": "Funds have not yet been certified as available.",
+        "probability": 0.65,
+        "justification": "This statement suggests a requirement for the system to handle financial transactions based on the availability of funds."
+    },
+    {
+        "chunk_id": 50,
+        "text": "Trading Partner Codes assigned by the Department of Treasury, Financial Management Service (FMS) to certain Federal agencies to facilitate disbursement, reconciliation, and other activity/reporting by FMS.",
+        "probability": 0.68,
+        "justification": "This implies a requirement for the system to manage and utilize trading partner codes for various financial activities."
+    },
+    {
+        "chunk_id": 51,
+        "text": "A unique, unambiguous string of alpha numeric characters that enables the identification of a specific asset from any other like or unlike it.",
+        "probability": 0.9,
+        "justification": "This statement describes a characteristic that a system must have (a unique identifier), which is essential for asset tracking and management, thus fitting the definition of a system requirement."
+    },
+    {
+        "chunk_id": 51,
+        "text": "The structure of the UID as proposed provides a way for any manufacturer to ensure that the UID they assign to a product will not be duplicated either by themselves or any other company worldwide.",
+        "probability": 0.85,
+        "justification": "This statement outlines a condition that must be satisfied to ensure uniqueness in identifiers assigned by manufacturers, making it a system requirement."
+    },
+    {
+        "chunk_id": 51,
+        "text": "Damaged inventory that is more economical to dispose of than to repair.",
+        "probability": 0.6,
+        "justification": "This description implies a property regarding the management of inventory, which could guide system behaviors in handling unserviceable inventory as a requirement."
+    },
+    {
+        "chunk_id": 52,
+        "text": "Historical cost shall include all appropriate purchase, transportation and production costs incurred to bring the items to their current condition and location.",
+        "probability": 0.75,
+        "justification": "This statement specifies a requirement that defines how historical costs should be calculated for inventory, which is a characteristic guiding the system's behavior."
+    },
+    {
+        "chunk_id": 52,
+        "text": "Donated inventory shall be valued at its fair value at the time of donation.",
+        "probability": 0.8,
+        "justification": "This statement establishes a requirement for valuing donated inventory, detailing a specification for the system's behavior with regards to donated items."
+    },
+    {
+        "chunk_id": 52,
+        "text": "Inventory acquired through exchange of non-monetary assets (e.g., barter) shall be valued at the fair value of the asset received at the time of the exchange.",
+        "probability": 0.85,
+        "justification": "This statement provides a clear requirement for how to value inventory acquired through exchanges, directly relating to the system's specifications."
+    },
+    {
+        "chunk_id": 52,
+        "text": "The inventory shall be revalued periodically but at least at the end of each fiscal year.",
+        "probability": 0.9,
+        "justification": "This requirement dictates a periodic revaluation of inventory, establishing a timeline and behavior for the system."
+    },
+    {
+        "chunk_id": 52,
+        "text": "The latest acquisition cost method is allowable for inventory only.",
+        "probability": 0.65,
+        "justification": "This statement restricts the valuation method for inventory, which is a crucial property defining the system’s behavior."
+    },
+    {
+        "chunk_id": 52,
+        "text": "Use of the expected net realizable value method is acceptable if there is (1) an inability to determine approximate costs, (2) immediate marketability at quoted prices, and (3) unit interchangeability.",
+        "probability": 0.7,
+        "justification": "This statement provides conditions under which a specific valuation method can be used, outlining capabilities that the system must satisfy."
+    },
+    {
+        "chunk_id": 53,
+        "text": "Excess, obsolete, and unserviceable inventory and operating materials and supplies will be valued using the expected net realizable value.",
+        "probability": 0.8,
+        "justification": "This statement provides a clear condition (valuing inventory and supplies) that the system must satisfy, which aligns with system requirement definitions."
+    },
+    {
+        "chunk_id": 53,
+        "text": "Under the allowance method, inventory and operating materials and supplies held for repair are to be valued at the same value as a serviceable item.",
+        "probability": 0.75,
+        "justification": "This specifies a condition for how inventory and supplies should be valued, indicating a system behavior in relation to accounting methods."
+    },
+    {
+        "chunk_id": 53,
+        "text": "An allowance for repairs contra-asset account (i.e., repair allowance) will be established.",
+        "probability": 0.7,
+        "justification": "This statement indicates a necessary characteristic of the system (establishing a repair allowance account), which is an important aspect of financial management."
+    },
+    {
+        "chunk_id": 53,
+        "text": "When the repair is actually made, the cost of the repair shall be capitalized in the inventory account up to the value of a serviceable item.",
+        "probability": 0.85,
+        "justification": "This condition describes specific actions regarding inventory accounting, thus establishing clear system behavior that must be followed."
+    },
+    {
+        "chunk_id": 53,
+        "text": "Any agency implementing these Inventory, Supplies and Materials/financial functional requirements must take into account these influences when developing its IT strategy.",
+        "probability": 0.65,
+        "justification": "This outlines a requirement for agencies related to the development of their IT strategy in the context of the system’s operational framework."
+    },
+    {
+        "chunk_id": 54,
+        "text": "The FedBizOps web portal is one approach toward meeting the single point of entry objective.",
+        "probability": 0.7,
+        "justification": "This statement indicates that the FedBizOps web portal shall serve as a method to achieve a single point of entry for the related systems, which is a requirement for functional integration."
+    },
+    {
+        "chunk_id": 54,
+        "text": "As these electronic interface technologies evolve, system developers should be cognizant of their support of the functional interface requirements contained in this document.",
+        "probability": 0.6,
+        "justification": "This implies that system developers shall ensure that any evolving electronic interface technology supports the functional interface requirements established in the document."
+    },
+    {
+        "chunk_id": 54,
+        "text": "Integrated Acquisition Environment will allow agencies to begin sharing common data elements.",
+        "probability": 0.65,
+        "justification": "This indicates that the Integrated Acquisition Environment shall facilitate the sharing of common data elements among agencies, which is critical for improved decision-making."
+    },
+    {
+        "chunk_id": 54,
+        "text": "E-Authentication will build and enable the mutual trust needed to support wide spread use of electronic interactions.",
+        "probability": 0.7,
+        "justification": "This suggests that E-Authentication shall establish a trusted method for identity verification to enable effective electronic interactions between the public and the government."
+    },
+    {
+        "chunk_id": 54,
+        "text": "There is a requirement for adequate security controls on systems.",
+        "probability": 0.8,
+        "justification": "This directly indicates that the system shall implement adequate security controls to safeguard business communications and the integrity of sensitive information."
+    },
+    {
+        "chunk_id": 54,
+        "text": "The solutions are computer system access controls, public key cryptography and digital signature technology.",
+        "probability": 0.75,
+        "justification": "This communicates what security measures must be implemented, indicating that the system shall incorporate these technologies for security purposes."
+    },
+    {
+        "chunk_id": 55,
+        "text": "ACES facilitates secure online access to government information and services by the public through the use of public key infrastructure/digital signature technology.",
+        "probability": 0.7,
+        "justification": "This statement outlines a capability that the system must provide to meet stakeholder needs, specifically in facilitating secure online access to government information and services."
+    },
+    {
+        "chunk_id": 55,
+        "text": "The Security Act requires annual agency program reviews and annual independent evaluations for both unclassified and national security programs.",
+        "probability": 0.6,
+        "justification": "This requirement specifies an obligation for agency programs to undergo reviews and evaluations, which serve as a condition the system must satisfy to ensure compliance with security standards."
+    },
+    {
+        "chunk_id": 55,
+        "text": "systems which produce electronic signatures must be capable of ensuring that these signatures are: (1) unique to the signer, (2) under the signer’s sole control, (3) capable of being verified, and (4) linked to the data in such a manner that, if the data are changed, the signature is invalidated upon verification.",
+        "probability": 0.9,
+        "justification": "This passage outlines specific capabilities and conditions that the electronic signature systems must meet, indicating clear system requirements for functionality and security."
+    },
+    {
+        "chunk_id": "56",
+        "text": "Federal agencies shall allow individuals or entities that deal with the agencies, the option to submit information, transact with the agency, and maintain records electronically when practicable.",
+        "probability": 0.85,
+        "justification": "This statement specifies a requirement for federal agencies to provide electronic options for interacting with the agency, which meets the criterion of a system requirement as it outlines a behavior the system must support."
+    },
+    {
+        "chunk_id": "56",
+        "text": "The Federal government shall develop a public key infrastructure to enable the widespread use of cryptographically-based digital signatures.",
+        "probability": 0.75,
+        "justification": "This requirement indicates a specific capability that the government must implement, which aligns with the need for a system to enable secure electronic transactions."
+    },
+    {
+        "chunk_id": "56",
+        "text": "A general requirement exists for the identification of suppliers through a common system.",
+        "probability": 0.7,
+        "justification": "This statement describes a requirement for a common system for supplier identification, which is essential for data consistency across agencies."
+    },
+    {
+        "chunk_id": "56",
+        "text": "All agencies will soon be required to have their vendors registered within this system.",
+        "probability": 0.9,
+        "justification": "This is a clear statement of requirement, indicating that agencies must ensure vendor registration, which is critical for compliance and operational consistency."
+    },
+    {
+        "chunk_id": "56",
+        "text": "All Federal agencies’ electronic and information technology (EIT) shall be accessible to people with disabilities.",
+        "probability": 0.95,
+        "justification": "This requirement ensures compliance with Section 508, specifying that all electronic systems must be designed for accessibility, which is a fundamental characteristic of the system."
+    },
+    {
+        "chunk_id": 57,
+        "text": "the EIT allows Federal employees with disabilities to have access to and use of information and data that is comparable to the access to and use of information and data by other Federal employees.",
+        "probability": 0.9,
+        "justification": "This text specifies a condition that the EIT (Electronic and Information Technology) must satisfy in relation to accessibility for Federal employees with disabilities, clearly identifying a requirement that must guide the design and use of systems."
+    },
+    {
+        "chunk_id": 57,
+        "text": "individuals with disabilities, who are members of the public seeking information or services from a Federal department or agency, have access to and use of information and data that is comparable to those provided to the public without disabilities.",
+        "probability": 0.85,
+        "justification": "This text outlines another requirement related to public access for individuals with disabilities, indicating specific capabilities that a system must provide to ensure equal accessibility to information and services."
+    },
+    {
+        "chunk_id": 57,
+        "text": "These 'intragovernmental' transactions must be eliminated from the various agencies’ financial statements in order to avoid double counting and prepare a consolidated, government-wide financial statement.",
+        "probability": 0.75,
+        "justification": "This sentence states a necessary condition for the handling of financial information related to intragovernmental transactions, implying a requirement for systems to process and reconcile financial data correctly."
+    },
+    {
+        "chunk_id": 57,
+        "text": "The Office of Management and Budget is working with the logistics and financial communities to develop and implement policies, procedures, and electronic exchange mechanisms for intra-governmental business transactions.",
+        "probability": 0.65,
+        "justification": "This text indicates a requirement for the development and implementation of specific systems and mechanisms for electronic exchanges in governmental transactions, highlighting characteristics needed for the system's design."
+    },
+    {
+        "chunk_id": 58,
+        "text": "JFMIP documents may be accessed electronically on the Internet in electronic format, suitable for online viewing or printing.",
+        "probability": 0.75,
+        "justification": "This text outlines a requirement for accessibility and format of JFMIP publications, indicating that the system must provide electronic access for users, which is a clear requirement for functionality."
+    },
+    {
+        "chunk_id": 58,
+        "text": "To receive notification of JFMIP publications when they are issued, join the JFMIP Mailing List through the JFMIP home page.",
+        "probability": 0.65,
+        "justification": "This statement implies that the system should include a mechanism for users to subscribe to notifications, indicating a requirement for user engagement and communication capabilities."
+    }
+]

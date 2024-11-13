@@ -1,0 +1,1 @@
+These semantic triples were then converted by the script to cypher statements, which were inputted to a Neo4J graph database. Subject and object nodes were not duplicated. As suspected, a graph structure emerged:

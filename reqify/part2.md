@@ -1,0 +1,1 @@
+GPT models were not without error in identifying requirements in the document. However, results were improved by experimenting with and improving prompts. The AI was certainly capable of understanding what a requirement was. After extracting requirements, the AI was asked to transform each requirement into a set of one or more semantic triples:
