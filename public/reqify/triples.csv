@@ -1,0 +1,693 @@
+Subject,Predicate,Object
+document,provides for,comprehensive description
+description,of,basic elements
+description,of,model
+model,for,integrated financial management systems
+systems,in,Federal government
+system integration,included in,document
+data stewardship,included in,document
+internal controls,included in,document
+document,prepared in support of,Federal Financial Management Improvement Act
+document,prepared in support of,strategic plan
+strategic plan,of,Chief Financial Officer's Council
+Federal Government,provide,financial systems
+systems,facilitate,effective management
+management,of,government programs
+management,of,proper stewardship
+stewardship,of,public resources
+establishment,of,robust inventory system requirements
+agencies,use,functional requirements
+agencies,use informed by,agency-unique mission requirements
+requirements,support,functionality
+requirements,described in,document
+functionality,not necessarily reside,single software application
+improvements,critical to,government’s efforts
+agency,in,Inventory
+agency,in,Supplies Materials
+agency,in,financial systems
+systems,in,Inventory
+systems,in,Supplies Materials
+systems,in,financial systems
+integrated systems,expected to support,multiple users
+information from systems,expected to become,timely
+information from systems,expected to become,accurate
+information from systems,expected to become,consistent
+its purpose,provide,common set of inventory/financial shared information requirements
+requirements,consistent with,agency's integrated financial management system
+requirements,available to,users
+financial management systems,must be designed to,support vision
+vision,articulated by,government’s financial management community
+information,should be,collected
+information,should be,accurate
+information,should be,timely
+information,should be,complete
+information,should be,reliable
+information,should be,consistent
+system,provide for,adequate management reporting
+reporting,for,decision making
+reporting,for,measuring performance
+reporting,for,financial reporting
+system,support,government-wide policy decision making
+system,support,agency-wide policy decision making
+system,support,preparation of agency budgets
+system,support,execution of agency budgets
+statements,in accordance with,Federal accounting standards
+statements,in accordance with,reporting standards
+system,provide for,audit trail
+trail,facilitate,audits
+system,provide for,security controls
+controls,minimize risk,disclosure of data
+controls,minimize risk,improper use of data
+controls,minimize risk,destruction of data
+system,provide,disaster recovery capabilities
+Federal Inventory,defined as,mixed system
+Federal Inventory,used in,administering program
+system,used in,Inventory
+system,does not mean,specific system architecture
+mandatory data elements,reside in,central data base
+data base,accessed by,variety of systems
+processes,applicable to,executive agencies
+policies,applicable to,executive agencies
+procedures,applicable to,executive agencies
+procedure,published in,Federal Acquisition Regulation
+Inventory,defined as,tangible property
+property is,held by,federal government agencies
+Inventory requirements,apply to,classifications of Inventory
+Inventory held for sale,interpreted to include,items held for sale or transfer
+transfer,to/entities outside,federal government
+objective,of sale or transfer,provide product
+inventory,awaiting disposal,because it is not needed
+inventory,awaiting disposal,because it is damaged
+Inventory held for repair,items,are worn out
+Inventory held for repair,items,are broken
+"category of ""held for repair""",applies to,items less costly to repair than to replace
+Inventory systems,must comply with,requirements
+requirements,ensure,sharing of data
+requirements,form the basis for,agency’s single integrated financial management system
+requirements,describe,system capabilities
+requirements,establish based on,Federal laws
+requirements,establish based on,regulations
+Agencies,consider,value-added features
+feature,value-added,if applicable to transaction
+requirements,apply to,supply community
+requirements,apply to,logistics community
+requirements,apply to,finance community
+requirements,must be defined,by processes
+requirements,must be defined,by objectives
+Requirements,provide,description of major information
+Requirements,provide,description of processing capabilities
+Inventory system,must support,classification functions
+Inventory system,supports,recording balances
+balances,expressed in,dollar values
+balances,expressed in,physical units
+requirements,on,Valuation Methods
+Record,change in value of Inventory changes,in condition
+system,provide,query facility
+query,supports,financial information
+query,provide,reporting tools
+Reporting tools,for,data analysis
+Inventory system,interface with,Core Financial System
+inventory system,linked,shared information
+inventory system,capable of,interfacing with systems
+inventory system,process,transactions
+transaction,provide,basis for central control
+interface,with core system,for funds control
+interface,with core system,for funds availability
+audit trails,recorded for,system transactions
+agency core accounting system,record,accounting impact
+provide,backup and recovery of the system,per OMB Circulars
+users,allowed,input parameters
+parameters,required to run,batch jobs
+agencies,develop,strategies for interfacing systems
+systems,linked,shared information
+transactions,interface,with Standard General Ledger level
+parameters,run,batch jobs
+security measures,control,user access
+security measures,define,access to specific functions
+capability,provide for,reconciliation routines
+capability,for,internal participant accounts
+capability,for,ledgers
+capability,for,funds
+capability,to identify,unsuccessful reconciliations
+unsuccessful reconciliations,via,error log
+unsuccessful reconciliations,via,error report
+mechanism,provide to,monitor changes
+monitor changes,to,software coding
+monitor changes,to,responsible individual
+mechanism,provide,authorized user
+management controls,provide for,system controls
+management controls,for,internal controls
+management controls,for,security controls
+management controls,for,policies
+management controls,for,procedures
+system controls,protect,key systems
+system controls,protect,data
+system controls,protect,interfaces
+data,in accordance with,statutes
+data,in accordance with,regulations
+system,comply with,Privacy Act of 1974
+information,allow to be contained in,system
+information,to be queried,present detailed data
+users,provide with,access
+users,access to,on-line guidance
+users,access to,help
+help,for performing,system functions
+analysis,facilitate,information
+information,contained in,system
+analysis,allow,analysts
+analysis,to obtain,report information
+data files,transfer to,applications
+data files,transfer to,analytical tools
+input devices,utilize,hard copy applications
+input devices,utilize,correspondence
+correspondence,are received,hard copy applications
+data entry,support,batch
+data entry,support,real-time on-line data entry
+data entry,use,edit rules
+data entry,use,update rules
+update rules,modifies,data entry
+access,support,data entry
+access,support,simultaneous data entry
+access,support,multiple users
+code validation,modifies,user entry
+query screens,support,validation
+query screens,validation of,codes
+transaction,display,acceptance
+transaction,display,rejection
+transaction,modifies,inputs
+archiving,develop with,purging criteria
+archiving,in accordance with,Federal regulations
+archiving,agreed to by,system administrator
+data,provide,automated means
+data,provide for,permanently storing
+transactions,archive,transactions
+transactions,archive,related information
+information,needed for,audit trails
+information,in a format accessible by,audit software
+administrator,provide the,authorized system
+administrator,provide,flexibility
+administrator,determine whether,records
+records,to be,archived
+records,to be,purged
+system,must include,capability
+capability,establish,archival criteria
+capability,maintain,archival criteria
+records,retain in accordance with,Federal regulations
+records,in accordance with,NARA
+records,in accordance with,GAO
+transactions,prevent the purging of,transactions
+transactions,in accordance with,regulations
+transactions,governing the retention of,documents
+transactions,provide,asset identifier
+asset identifier,to include,all costs
+asset identifier,to track,acquisition cost
+asset identifier,to track,contracting cost
+cost,used to acquire,asset
+asset,modifies,specific document
+managers,should seek to minimize,inventory
+managers,should seek to minimize,supplies
+managers,should seek to minimize,materials
+supplies,use,economic order quantity
+materials,use,economic order quantity
+supplies,use,methods
+materials,use,methods
+system,must record,customer demand
+system,must record,replenishment lead time
+data,for a period of time,specified by management
+data,identify,anomalies
+data,modifies,customer demand
+anomalies,such as,spikes
+management,compute,demand
+management,compute,lead time
+forecasts,upon a regular schedule,determined by management
+system,must compute,ordering costs
+management,determine,ordering costs
+system,must estimate,holding cost
+system,must update,holding cost
+system,must compute,safety level
+safety level,modifies,item
+system,must recompute,reorder point level
+system,must record,authorization
+system,must record,expiration
+system,must determine,replenishment
+system,on a regular schedule,replenishment
+system,must schedule,replenishment reviews
+system,compute,production targets
+production targets,fill,customers’ orders
+production targets,meet,operating schedules
+system,support,inspection plans
+system,support,quality standards
+system,enable,electronic approvals
+system,enable,notification alerts
+system,enable,point-of-entry automated forms
+system,make recommendations,contract termination
+models,modifies,termination costs
+models,modifies,ordering costs
+funds,identify,available
+funds,identify by,item
+funds,distinguish,available funds
+available funds,for items,items slow moving
+funds,provide access to,core financial system
+system,ensure funds are,available
+system,ensure incurring,obligation
+obligation,exceed,available funding
+funds,identify,utilized funds
+funds,identify,rates of fund utilization
+fund utilization,by,item
+funds,control,availability
+funds,calculate,fund usage
+fund usage,project,date
+date,on which funds will be exhausted,at the current rate of usage
+system,provide access to,core financial system
+information,obtain,core financial system
+cost,provide to,interagency agreement
+costs,for evaluation,direct
+costs,for evaluation,indirect
+transaction,maintain,details
+details,to support,account balances
+contract,provide access to,copy
+copy,where cost effective,electronic
+copy,modifies,executed contract
+contract,signed,executed contract
+method,identify,acquisition
+record,create,skeletal record
+record,capturing,information
+information,in-transit,providing entity
+inventory,complete,skeletal record
+inventory,create,inventory record
+item,assuming possession of,item
+record,record,method of acquiring
+date,record,acquisition
+record,record,quantity
+record,record,physical receipt
+condition,assessment,required
+assessment,record,inspection date
+date,for items,delivered
+record,record,acceptance date
+acceptance,for items,delivered
+receipt,forward,information
+information,including,quantity
+receipt,forward,acquisition system
+receipt,forward,core financial system
+funds,enable,electronic obligation
+funds,enable,approvals
+funds,enable,signatures
+funds,enable,notification alerts
+alerts,for,pending actions
+contract,specified cost escalations,enable periodic obligations
+Inventory,recognized,title
+Inventory,when,passes title
+Inventory,when,product
+Inventory,delivered to,purchasing entity
+control,maintain,control of inventories
+control,substantiate,Accounting records
+records,record,inventory records
+records,record,transactions
+inventories,modifies,time
+time,when transactions,occur
+procedures,required,internal control
+records,to reflect,existence
+records,to reflect,completeness
+records,to reflect,rights/obligations
+records,to reflect,condition
+records,to reflect,valuation
+records,to reflect,pricing
+records,to reflect,presentation
+information,to monitor,management activities
+management activities,modifies,inventory
+management activities,modifies,supplies
+management activities,modifies,materials
+unit,applicable,unit
+adjustments,for,end balance
+end balance,by,category
+category,compute from,adjustments
+trail,provide,audit trail
+trail,to include,adjustments
+adjustments,modifies,quantities
+adjustments,modifies,units
+adjustments,identify,who made
+donated inventory,record,value
+entries,generate,data
+entries,to include,journal entries
+entries,for recording,changes in valuation
+changes in valuation,to include,gains
+changes in valuation,to include,losses
+asset,record,identifier
+identifier,record,location
+location,record,current owner
+item,record an item’s,condition
+inventory,provide,functionality
+inventory,record,acquisition cost
+acquisition cost,of,individual items
+items,acquired,purchase
+inventories,provide,current information
+historical usage,provides,capacity planning
+capacity planning,compute,production targets
+production targets,to fill,customers' orders
+targets,meet,operating schedules
+systems,support,inspection plans
+inspection plans,modifies,management
+systems,support,quality standards
+status,from,ownership
+systems,support,sources
+sources,for,supply
+sources,for,cost
+material,record information,customer information
+record information,provide,credit
+refund,in accordance with,return policy
+document,record information,document
+purposes,match receipt,purchase order
+purposes,match receipt,contract
+purposes,match receipt,invoice
+items,complete,skeletal record
+items,to include,information
+items,to include,such information
+information,the receipt date,method of acquisition
+date,of receipt,date of acceptance
+date,whichever is,later
+full receipts,partial and full,orders
+full receipts,partial and full,on back order
+quantity,provide for,performing conversions
+performing conversions,between,different units
+units,modifies,measure
+discrepancies,identify,transportation discrepancies
+discrepancies,identify,government
+discrepancies,identify,commercial
+bill of lading,modifies,item
+received,generate,report
+report,for,transportation discretion
+control,assign,serialization numbers
+serialization numbers,provide,lot
+control,provide,disposition codes
+record,provide,items
+prevent,ensure,incoming materials
+incoming materials,to be,labeled
+incoming materials,to be,marked
+marked,readily,visible
+visible,record,acceptance
+acceptance,of,new or returned items
+at destinations,modifies,quantities
+Update,as a result,inventory on hand information
+update,to record acceptance or rejection,accountability records
+record,for purposes of the Prompt Payment Act,date of acceptance
+provide,such as,information
+quantity,modifies,information
+asset identifier,modifies,information
+cost,modifies,information
+identify,to support follow-up,shipping discrepancies
+identify,for movement of an item,location
+track,from point of initial receipt to final destination,location
+record,as determined by management,identifiers
+record,as determined by management,quantities
+record,as determined by management,condition
+record,as determined by management,location
+inventory,modifies,supplies
+inventory,modifies,materials
+information consistent with Federal accounting requirements,modifies,inventory valuation method
+total cost information for items added into inventory,modifies,core financial system
+agency,has,cost accounting system
+provide,such as,information
+description,modifies,information
+quantity,modifies,information
+asset identifier,modifies,information
+information needed to support reconciliation between the inventory system's records and other systems' records,modifies,specified by management
+information such as shipping and receiving records,modifies,system
+information such as relocation of inventory items within a warehouse or facility,modifies,system
+information such as production usage records,modifies,system
+identity such as asset identifier and description data,modifies,items shipped
+identity such as asset identifier and description data,modifies,items in transit
+repair activities using direct or allowance methods of accounting,modifies,costs
+orders to perform production work on items needed,modifies,support
+orders of contractor or government entity,modifies,establishment
+production elements necessary to complete production cycle,modifies,project
+financial information to other management systems,modifies,information
+agency’s Inventory system,must support,account balances
+agency’s Inventory system,must provide,audit trail
+audit trail,must have,access
+transaction details,specific to,account balances
+agency’s Supplies system,must support,account balances
+agency’s Supplies system,must provide,audit trail
+agency’s Materials system,must support,account balances
+agency’s Materials system,must provide,audit trail
+agency’s Inventory system,must use,chart of accounts
+chart of accounts,must be consistent with,USSGL number structure
+chart of accounts,must have,titles provided in USSGL
+agency’s Supplies system,must use,chart of accounts
+agency’s Materials system,must use,chart of accounts
+Access,must have,authorization of customer eligibility
+Access,must have,organization code
+Access,must have,trading partner (Treasury Dept code)
+Access,must have,loan agreement number
+Access,must have,delivery order numbers
+Access,must have,task order numbers
+Access,must have,purchase order number
+Access,must have,blanket purchase agreement (BPA) number
+Access,must have,BPA call numbers
+Access,must have,Change in product or service descriptions
+Access,must have,Change in unit of measure
+Access,must have,Change in quantity
+Access,must have,Change in total amount
+Access,must have,Change in delivery/performance schedule
+Record,must record,unfilled orders with checks or cash
+Receipt Management function,send information to,core financial system
+core financial system,recognize,associated liability
+price,differs from,historical cost
+revenue,Record,revenue earned
+offsetting account,Record,appropriate offsetting account
+inventory items,be sold,at price
+item requests/orders,funds designated by customer is less than,sales price of items
+Record,Record,consumption
+Provide,must provide,indicators
+sensitive,modifies,items
+classified,modifies,items
+management determined,modifies,items
+items,restrict,loan process
+items,restrict,disposal process
+system control,prevent,improper loan or disposal activities
+management,override,system control
+agency’s Supplies and Materials system,provide,Access to information
+agency’s Supplies and Materials system,use,Electronic Data Interchange
+EDI,obtain,customer orders
+pick lists,be used in,pulling inventory items
+Provide,must provide,ability to backorder unfilled customer orders
+backorder,policy permits,insufficient stock available
+Provide,must provide,ability to compare customer order records
+issue records,flag any differences for,follow-up
+Provide,Provide quality controls,ensure all costs provided to pricing formula
+Provide,develop information necessary for,customer order
+proceeds,account for,disposal process
+quantity,amount of,items
+items,designated as,excess
+items,designated as,obsolete
+items,designated as,unserviceable
+items,designated as,unissuable
+Identify,items as,Munition List Items
+Identify,items as,small arms
+Identify,items as,controlled items
+Identify,items as,Flight - Safety Critical Aircraft Parts
+Identify,items requiring,trade security controls
+data elements,depend on,agency’s accounting classification structure
+data elements,depend on,implementation strategy for the SGL
+data elements,meet,data aggregation requirements
+procure,means to,acquire supplies by any method
+procure,includes,transfer
+procure,includes,acquisition from excess
+procure,includes,donation
+procure,includes,manufacture
+procure,includes,production at government facilities
+Action Code,identifies,whether transaction is new or modification
+Agency Single Integrated Financial Management System,encompasses,software and hardware
+Agency Single Integrated Financial Management System,encompasses,processes
+Agency Single Integrated Financial Management System,encompasses,procedures
+Agency Single Integrated Financial Management System,encompasses,controls
+Agency Single Integrated Financial Management System,encompasses,data
+Asset Identifier,shall be,a string of alpha numeric characters
+Asset Identifier,enable,identification of like items
+Federal accounting standards,require,recorded costs include all costs
+recorded costs,are for,inventory
+recorded costs,are for,PP&E assets
+total costs,are important for,cost accounting
+total costs,are important for,financial reporting
+total costs,are important for,asset valuation purposes
+organization,determine,coding of assets
+program,may determine,coding of assets
+finance,may determine,coding of assets
+Bulk funding,appropriate for,numerous purchases with same funds
+contract number,should consist of,alpha characters
+contract number,indicate,agency
+contract number,include,alpha-numeric characters
+contract number,identify,bureaus
+contract number,identify,offices
+contract number,identify,administrative subdivisions
+contracting,includes,description of supplies and services
+contracting,includes,selection of sources
+contracting,includes,solicitation of sources
+contracting,includes,preparation of contracts
+contracting,includes,award of contracts
+contracting,includes,contract administration
+physical control,include,control of property
+tracking,include,movement of property
+tracking,include,valuation of items
+core financial system,receives data from,all financial systems
+core financial system,supports,processing for systems
+cycle counting,shall be utilized,validate accuracy of records
+cycle counting,shall validate,inventory records
+cycle counting,shall validate,controls
+Disbursement,shall include,payments with cash
+Disbursement,include,payments with check
+Disbursement,include,payments with electronic transfer
+Designated Official,shall refer to,organizational element responsible
+Disbursement Authority,establish,disburse public money
+direct cost,shall include,salaries
+direct cost,include,materials
+direct cost,include,specific costs
+Effective Date,be,date of contract award
+Electronic Commerce,define,electronic business transactions
+electronic techniques,include,electronic mail
+electronic techniques,include,messaging
+electronic techniques,include,World Wide Web technology
+electronic techniques,include,electronic bulletin boards
+electronic techniques,include,purchase cards
+electronic techniques,include,EFT
+electronic techniques,include,EDI
+Electronic Data Interchange,transfers and stores,information between computers
+Enterprise Architecture,define,business
+Enterprise Architecture,define,information necessary to operate business
+Enterprise Architecture,define,technologies to support operations
+Enterprise Architecture,define,transitional processes
+Final Acceptance Indicator,acknowledge,final acceptance occurred
+Financial System,includes,information system
+Financial System,used for,collecting data
+Financial System,used for,processing data
+Financial System,used for,maintaining data
+Financial System,used for,transmitting data
+Financial System,used for,reporting data
+Financial System,support,financial functions
+Financial System,provides,financial information
+Financial System,require,data maintenance
+Financial System,encompasses,processes
+Financial System,encompasses,procedures
+Financial System,encompasses,controls
+Financial System,encompasses,data
+Financial System,encompasses,hardware
+Financial System,encompasses,software
+Financial System,encompasses,support personnel
+Financial System,integrates,multiple applications
+Costs,associated with,carrying inventory
+costs,include,storage space cost
+costs,include,handling cost
+costs,include,obsolescence losses
+costs,include,shrinkage
+costs,include,clerical costs
+Equipment,used for,automatic data handling
+Equipment,used for,storage of data
+Equipment,used for,manipulation of data
+Equipment,used for,management of data
+Need for information,require,acquisition information
+need for information,require,finance information
+management,adopt,plan of organization
+management,adopt,methods to ensure compliance
+management,adopt,procedures to ensure resource use
+management,ensure,resources safeguarded
+management,ensure,reliable data obtained
+primary method,used by,federal agencies
+method,used to,bill and to pay
+services and supplies,provided within,government
+Financial community,interfaces with,program/contracting function
+resources,committed to,inventory process
+resources,include,infrastructure
+resources,include,acquisition process
+documentation,includes,orders
+documentation,includes,regulations
+documentation,includes,policies
+documentation,includes,procedures
+documentation,include,agency guidance
+Lead Time,total days from,need identification
+Lead Time,item,placed into inventory
+Mixed System,supports,financial functions
+Mixed System,supports,non-financial functions
+Obligation,agreement,leading to outlays
+obligation,amounts of,orders placed
+obligation,amounts of,contracts awarded
+obligation,amounts of,services received
+partial Payments,provided for,accepted supplies
+partial Payments,provided for,accepted services
+Payment,disbursement to,contractor
+payment,according to,contract terms
+payment management function,consists of,payee information maintenance
+payment management function,consists of,payment warehousing
+payment management function,consists of,payment execution
+payment management function,consists of,payment confirmation
+payment management function,consists of,follow-up
+proper invoice,must meet,requirements of 5 CFR
+proper invoice,can include,receiving reports
+proper invoice,can include,delivery tickets
+receiving report,must meet,requirements of FAR
+receiving report,indicates,government acceptance of supplies
+receiving report,indicates,government acceptance of services
+purchase order,shall be,offer by government
+purchase order,includes,supplies
+purchase order,includes,services
+purchase order,includes,construction
+purchase order,includes,research and development
+mandatory requirements,describe,what system must do
+mandatory requirements,consist of,minimum acceptable functionality
+minimum acceptable functionality,necessary to,establish a system
+requirements,apply to,existing systems
+requirements,apply to,new systems
+agencies,should consider,value-added features
+payment date,is,three business days after release
+payment office,releases,EFT payment transaction instruction
+uniform list of accounts,standardizes,Federal agency accounting
+uniform list of accounts,supports,preparation of reports
+trading partner codes,assigned by,Department of Treasury
+trading partner codes,facilitate,disbursement
+trading partner codes,facilitate,reconciliation
+structure,ensures,UID not duplicated
+damaged inventory,is more economical to,dispose of
+historical cost,shall include,appropriate purchase
+historical cost,shall include,transportation and production costs
+donated inventory,shall be valued at,fair value
+time of donation,modifies,fair value
+inventory acquired through exchange,shall be valued at,fair value of asset
+received,modifies,asset
+exchange,modifies,fair value
+inventory,shall be revalued at,end of fiscal year
+latest acquisition cost method,is allowable for,inventory
+use of expected net realizable value method,is acceptable if,inability to determine costs
+use of expected net realizable value method,is acceptable if,immediate marketability
+use of expected net realizable value method,is acceptable if,unit interchangeability
+excess inventory,valued using,expected net realizable value
+obsolete inventory,valued using,expected net realizable value
+unserviceable inventory,valued using,expected net realizable value
+allowance method,values,item
+valued,modifies,serviceable item
+repair allowance,shall be,established
+repair,shall be capitalized in,inventory account
+cost of repair,modifies,repair
+FedBizOps web portal,is,approach
+system developers,should be cognizant of,support of requirements
+integrated acquisition environment,will allow,agencies to share data elements
+E-Authentication,will build,mutual trust
+E-Authentication,will enable,use of electronic interactions
+adequate security controls,required for,systems
+ACES,facilitates,secure online access
+ACES,uses,public key infrastructure
+security Act,requires,annual agency program reviews
+security Act,requires,annual independent evaluations
+electronic signatures,ensure,signatures are unique
+electronic signatures,ensure,signatures are controlled
+electronic signatures,ensure,signatures are verified
+electronic signatures,ensure,signatures are linked to data
+Federal agencies,shall allow,option to submit information
+Federal government,shall develop,public key infrastructure
+requirement,exists for,identification of suppliers
+all agencies,required to have,vendors registered
+EIT,shall be accessible,to people with disabilities
+EIT,allows,Federal employees with disabilities to access
+EIT,provides,access to people seeking information
+intragovernmental transactions,must be eliminated from,financial statements
+Office of Management and Budget,working with,logistics and financial communities
+office,develops and implements,policies
+procedures,develop and implement,electronic exchange mechanisms
+JFMIP documents,may be accessed,on Internet

@@ -73,7 +73,7 @@ function Header() {
               }
             }}
           >
-            <Typography variant="h6" component="div" sx={{ fontFamily: 'Courgette, cursive' }}>
+            <Typography component="div" sx={{ fontFamily: 'Arial, sans-serif', }}>
               Josh DiGiorgio
             </Typography>
           </Button>
