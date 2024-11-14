@@ -18,7 +18,7 @@ function App() {
         <div className="App">
           <Header />
           <Routes>
-            <Route path="/" element={<Splash />} />
+            <Route path="/" element={<ResumePage />} />
             <Route path="/resume" element={<ResumePage />} />
             <Route path="/projects/reqify" element={<Reqify />} />
           </Routes>
