@@ -1,6 +1,7 @@
 // src/Header.js
 import React from 'react';
 import { Link, useNavigate } from 'react-router-dom';
+// Removed useTheme import
 import AppBar from '@mui/material/AppBar';
 import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
@@ -24,7 +25,10 @@ function Header() {
   const [anchorEl, setAnchorEl] = React.useState(null);
   const navigate = useNavigate();
 
-  const toggleDrawer = (open) => () => {
+  const toggleDrawer = (open) => (event) => {
+    if (event.type === 'keydown' && (event.key === 'Tab' || event.key === 'Shift')) {
+      return;
+    }
     setDrawerOpen(open);
   };
 
@@ -41,7 +45,6 @@ function Header() {
     handleMenuClose();
   };
 
-  // Using require.context to dynamically load all components in the 'projects' folder
   const projectComponents = require.context('./components/projects', false, /\.jsx$/);
   const projectMenuItems = projectComponents.keys().map((fileName) => {
     const componentName = fileName.replace('./', '').replace('.jsx', '');
@@ -58,51 +61,42 @@ function Header() {
 
   return (
     <>
-      <AppBar position="sticky" sx={{ background: 'linear-gradient(45deg, #3b5998, #8b9dc3)', boxShadow: '0px 4px 10px rgba(0, 0, 0, 0.3)' }}>
+      <AppBar position="sticky">
         <Toolbar sx={{ justifyContent: 'space-between' }}>
           <Button
             color="inherit"
             component={Link}
             to="/"
-            sx={{
-              textTransform: 'none',
-              transition: 'transform 0.2s, color 0.2s',
-              '&:hover': {
-                transform: 'scale(1.1)',
-                color: '#FFD700',
-              }
-            }}
           >
-            <Typography component="div" sx={{ fontFamily: 'Arial, sans-serif', }}>
+            <Typography component="div">
               Josh DiGiorgio
             </Typography>
           </Button>
 
-          <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' }, justifyContent: 'center' }}>
+          <Box sx={{ 
+            flexGrow: 1, 
+            display: { xs: 'none', md: 'flex' }, 
+            justifyContent: 'center' 
+          }}>
             <Button
               color="inherit"
               onClick={handleMenuClick}
               startIcon={<TerminalIcon />}
-              sx={{
-                mx: 2,
-                textTransform: 'none',
-                transition: 'transform 0.2s, color 0.2s',
-                fontFamily: 'Arial, sans-serif',
-                '&:hover': {
-                  transform: 'scale(1.1)',
-                  color: '#FFD700',
-                }
-              }}
+              sx={{ mx: 2 }}
             >
               Projects
             </Button>
+            
             <Menu
               anchorEl={anchorEl}
               open={Boolean(anchorEl)}
               onClose={handleMenuClose}
             >
               {projectMenuItems.map((item) => (
-                <MenuItem key={item.label} onClick={() => handleMenuItemClick(item.path)}>
+                <MenuItem 
+                  key={item.label} 
+                  onClick={() => handleMenuItemClick(item.path)}
+                >
                   {item.label}
                 </MenuItem>
               ))}
@@ -113,16 +107,7 @@ function Header() {
               component={Link}
               to="/resume"
               startIcon={<ArticleIcon />}
-              sx={{
-                mx: 2,
-                textTransform: 'none',
-                transition: 'transform 0.2s, color 0.2s',
-                fontFamily: 'Arial, sans-serif',
-                '&:hover': {
-                  transform: 'scale(1.1)',
-                  color: '#FFD700',
-                }
-              }}
+              sx={{ mx: 2 }}
             >
               Resume
             </Button>
@@ -135,15 +120,6 @@ function Header() {
               target="_blank"
               startIcon={<LinkedInIcon />}
               rel="noopener noreferrer"
-              sx={{
-                textTransform: 'none',
-                transition: 'transform 0.2s, color 0.2s',
-                fontFamily: 'Arial, sans-serif',
-                '&:hover': {
-                  transform: 'scale(1.1)',
-                  color: '#FFD700',
-                }
-              }}
             >
               LinkedIn
             </Button>
@@ -153,15 +129,6 @@ function Header() {
               target="_blank"
               startIcon={<GitHubIcon />}
               rel="noopener noreferrer"
-              sx={{
-                textTransform: 'none',
-                transition: 'transform 0.2s, color 0.2s',
-                fontFamily: 'Arial, sans-serif',
-                '&:hover': {
-                  transform: 'scale(1.1)',
-                  color: '#FFD700',
-                }
-              }}
             >
               GitHub
             </Button>
@@ -178,22 +145,27 @@ function Header() {
         </Toolbar>
       </AppBar>
 
-      <Drawer anchor="right" open={drawerOpen} onClose={toggleDrawer(false)}>
-        <Box sx={{ width: 250 }} role="presentation" onClick={toggleDrawer(false)} onKeyDown={toggleDrawer(false)}>
-          <List>
-            {menuItems.map((item) => (
-              <ListItem 
-                button 
-                key={item.label} 
-                component={item.isAnchor ? 'a' : Link}
-                href={item.isAnchor ? item.link : undefined}
-                to={!item.isAnchor ? item.link : undefined}
-              >
-                <ListItemText primary={item.label} />
-              </ListItem>
-            ))}
-          </List>
-        </Box>
+      <Drawer 
+        anchor="right" 
+        open={drawerOpen} 
+        onClose={toggleDrawer(false)}
+        PaperProps={{
+          sx: { width: 250 }
+        }}
+      >
+        <List>
+          {menuItems.map((item) => (
+            <ListItem 
+              button 
+              key={item.label} 
+              component={item.isAnchor ? 'a' : Link}
+              href={item.isAnchor ? item.link : undefined}
+              to={!item.isAnchor ? item.link : undefined}
+            >
+              <ListItemText primary={item.label} />
+            </ListItem>
+          ))}
+        </List>
       </Drawer>
     </>
   );

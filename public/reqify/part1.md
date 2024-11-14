@@ -2,7 +2,7 @@
 
 <p style="text-align: center"><a href="https://github.com/jmdigiorgio/reqify" target="_blank">source code</a></p>
 
-Requirements specs for complex systems are often complex themselves, which doesn't really help simplify the thing that needs to be built. And yet, it's necessary to eventually be able to simplify elements of the system or it won't be built or it won't be built well. This is a recurring problem for large system development.
+Requirements specs for complex systems are often complex themselves, which doesn't really help simplify the thing that needs to be built. And yet, it's necessary to eventually be able to simplify elements of the system or it won't be built well or at all. This is a recurring problem for large system development.
 
 This is **one** requirement selected from the Office of Federal Financial Management's *Core Financial System Requirements (2006)*:
 
