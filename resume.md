@@ -4,13 +4,10 @@
 
 <p style="text-align: center;"><a href="https://www.linkedin.com/in/joshdigiorgio/">LinkedIn</a> | <a href="https://github.com/jmdigiorgio">GitHub</a></p>
 
-<br><br>
 
 <h3 style="text-align: center">Professional Summary</h3>
 
 Experienced systems engineer, product manager, and systems architect with over five years of experience driving digital transformation and product development initiatives. Skilled at managing complex technical projects from concept to deployment, utilizing agile methodologies, requirements engineering, and stakeholder management. Proven ability to lead cross-functional teams, translate technical requirements into actionable strategies, and foster collaboration across engineering, DevOps, and customer teams. Adept at navigating aerospace and defense projects, with a focus on delivering impactful digital solutions.
-
-<br><br>
 
 <h3 style="text-align: center">Core Competencies</h3>
 
@@ -25,8 +22,6 @@ Experienced systems engineer, product manager, and systems architect with over f
 - **Product Management**: Agile/SAFe Methodologies, Roadmap Development, Feature Prioritization
 - **Technical Leadership**: CI/CD Implementation, DevOps Collaboration, Team Mentorship
 - **Project Delivery**: Stakeholder Management, Requirements Engineering, Risk Management
-
-<br><br>
 
 <h3 style="text-align: center">Professional Experience</h3>
 
@@ -59,8 +54,6 @@ Experienced systems engineer, product manager, and systems architect with over f
 - Developed a process improvement tool for microelectronics manufacturing, streamlining assembly and testing processes, which is still in use today, supporting efficiency gains.
 - Tested and troubleshot sensitive electronics, ensuring high reliability for mission-critical components integrated into space-bound systems.
 - Operated complex machinery to assemble experimental integrated circuits.
-
-<br><br>
 
 <h3 style="text-align: center">Education & Certifications</h3>
 
