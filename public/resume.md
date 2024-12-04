@@ -16,7 +16,7 @@ Experienced systems engineer, product manager, and systems architect with over f
 - **Data Engineering & Visualization**: Python (Streamlit), Neo4J, Tableau
 - **Systems Engineering Tools**: Cameo MBSE, SysML, UML, DOORS, DrawIO, PlantUML
 - **Digital Engineering**: Digital Twin Architecture, Digital Thread Implementation
-- **AI/ML Technologies**: Large Language Models, Generative AI
+- **AI Technologies**: Cursor, ChatGPT, Claude, Midjourney, Runway, Eleven Labs
 
 #### Leadership & Management
 - **Product Management**: Agile/SAFe Methodologies, Roadmap Development, Feature Prioritization
