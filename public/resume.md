@@ -1,5 +1,8 @@
 <h3 style="text-align: center">Josh DiGiorgio</h3>
-<p style="text-align: center;">Salt Lake City, Utah &nbsp; | &nbsp; <a href="mailto:digiorgiojm@gmail.com">digiorgiojm@gmail.com</a></p>
+
+<p style="text-align: center;">Salt Lake City, Utah | <a href="mailto:digiorgiojm@gmail.com">digiorgiojm@gmail.com</a></p>
+
+<p style="text-align: center;"><a href="https://www.linkedin.com/in/joshdigiorgio/">LinkedIn</a> | <a href="https://github.com/jmdigiorgio">GitHub</a></p>
 
 <br><br>
 
@@ -11,21 +14,17 @@ Experienced systems engineer, product manager, and systems architect with over f
 
 <h3 style="text-align: center">Core Competencies</h3>
 
-#### Technical Skills
-- **Software System Architecture**: Cameo, Drawio, VSCode, GitLab, UML
-- **Graph Databases**: Neo4J
-- **Python Scripting & Data Visualization**: Streamlit, JSON, Tableau
-- **Model-Based Systems Engineering (MBSE)**: Cameo, SysML
-- **Digital Twin & Digital Thread Design & Implementation**
-- **Generative AI Tools**: ChatGPT, Claude, Midjourney, Runway, Eleven Labs
+#### Technical
+- **Software Architecture & Development**: System Design, React/Next.js, HTML, Markdown, CSS, JavaScript
+- **Data Engineering & Visualization**: Python (Streamlit), Neo4J, Tableau
+- **Systems Engineering Tools**: Cameo MBSE, SysML, UML, DOORS, DrawIO, PlantUML
+- **Digital Engineering**: Digital Twin Architecture, Digital Thread Implementation
+- **AI/ML Technologies**: Large Language Models, Generative AI
 
-#### Project & Team Leadership
-- **Agile Product Development & Portfolio Management**: Jira
-- **Product Road Mapping & Feature Prioritization**: Jira
-- **Continuous Integration/Continuous Deployment (CI/CD)**: Collaboration with DevOps
-- **Requirements Engineering**: DOORS
-- **Project Coordination & Stakeholder Engagement**
-- **Cross-functional Team Leadership**
+#### Leadership & Management
+- **Product Management**: Agile/SAFe Methodologies, Roadmap Development, Feature Prioritization
+- **Technical Leadership**: CI/CD Implementation, DevOps Collaboration, Team Mentorship
+- **Project Delivery**: Stakeholder Management, Requirements Engineering, Risk Management
 
 <br><br>
 
